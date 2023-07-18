@@ -1,6 +1,7 @@
 ---
-const { title, img, desc, url, badge, tags, target = "_blank" } = Astro.props;
+const { title, img, date, desc, url, badge, tags, target = "_blank" } = Astro.props;
 import { Image } from "@astrojs/image/components";
+import dayjs from "dayjs";
 ---
 
 <div
@@ -22,11 +23,12 @@ import { Image } from "@astrojs/image/components";
       }
       <div class="grow w-full">
         <h1 class="text-xl font-bold">
-          {title}
+          {title} 
           {badge && <div class="badge badge-secondary mx-2">{badge}</div>}
         </h1>
-        <p class="py-1 text-1xl">{desc}</p>
-        <div class="card-actions justify-end">
+        <p class="py-1 text-1xl">{desc}</p> <b>Publicado em:</b> {new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric'} ).format(date)}
+        <div class="card-actions py-1">
+          <b>Tags:</b>
           {
             tags &&
               tags.map((tag) => <div class="badge badge-outline">{tag}</div>)
