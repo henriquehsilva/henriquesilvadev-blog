@@ -11,7 +11,7 @@ Um <b>generator</b> assíncrono é semelhante a um <b>generator</b> sincrono em 
 a execução do generator até atingir a palavra-chave <b>yield</b>. Mas no lugar de retornar true e um objeto simples, next() retorna uma <b>promise</b>.
 
 Você pode pensar em um <b>generator</b> assíncrono como uma combinação de uma <b>async function</b>
-e uma <b>generator function</b>. Vamos escrever um exemplo que recupera URLs, usando uma <b>generator function</b>. 
+e uma <b>generator function</b>. Vamos escrever um exemplo que recupera dados de arquivos json passados via URLs, usando uma <b>generator function</b>. 
 Observe a palavra-chave <b>async</b> e o símbolo de asterisco <b>(*)</b> na linha 7 indicando um <b>async generator</b>:
 
 ```javascript
