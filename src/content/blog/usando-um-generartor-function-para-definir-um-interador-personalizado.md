@@ -14,7 +14,7 @@ fornecendo um algoritmo iterativo. Quando chamada, uma <b>generator function</b>
 se executa seu corpo imediatamente. Em vez disso, ele retorna um tipo especial de iterador
 conhecido como <b>generator object</b>, conforme mostrado na imagem a seguir.
 
-![Generator Function Cycle](../../../public/generatorFunctionCycle.jpg "Generation Function Cycle")
+![Generator Function Cycle](/generatorFunctionCycle.jpg "Generation Function Cycle")
 
 Podemos executar o corpo da <b>generator function</b> chamando seu método <b>next()</b>. 
 O <b>yield</b> palavra-chave que pausa o <b>generator</b> e especifica o <b>valor</b> a ser retornado. 
