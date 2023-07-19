@@ -4,7 +4,7 @@ description: "As generator functions aprimoram o processo de definição do prot
 fornecendo um algoritmo iterativo. Quando chamada, uma generator function não
 executar seu corpo imediatamente. Em vez disso, ele retorna um tipo especial de iterador
 conhecido como um generator object, conforme mostrado na imagem a seguir."
-pubDate: "Jul 20 2023"
+pubDate: "Jul 19 2023"
 badge: "#JAVASCRIPT"
 tags: ["JS", "ES6"]
 ---
