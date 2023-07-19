@@ -77,4 +77,4 @@ for (let value of collection2) {
 ```
 
 Agora que sabemos como funcionam os <b>generators</b> síncronos, vamos ver como funciona as chamadas assíncronas.
-[Criando um Async Generator Function](https://henriquesilva.dev/blog/criando-um-async-generator-function)
+[Criando um Async Generator Function](https://henriquesilva.dev/blog/criando-um-async-generator)
