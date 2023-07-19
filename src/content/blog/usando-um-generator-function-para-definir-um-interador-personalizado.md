@@ -76,5 +76,6 @@ for (let value of collection2) {
 // TypeError: collection2 is not iterable
 ```
 
-Agora que sabemos como funcionam os <b>generators</b> síncronos, vamos ver como funciona as chamadas assíncronas.
+Agora que sabemos como funcionam os <b>generators</b> síncronos, vamos ver como funciona as chamadas assíncronas:
+
 [Criando um Async Generator Function](https://henriquesilva.dev/blog/criando-um-async-generator)
