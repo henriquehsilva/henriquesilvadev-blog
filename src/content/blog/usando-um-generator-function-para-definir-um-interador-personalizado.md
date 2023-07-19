@@ -1,5 +1,5 @@
 ---
-title: "Usando um Generartor Function para definir um interador personalizado"
+title: "Usando um Generator Function para definir um interador personalizado"
 description: "As generator functions aprimoram o processo de definição do protocolo iterável
 fornecendo um algoritmo iterativo. Quando chamada, uma generator function não
 executar seu corpo imediatamente. Em vez disso, ele retorna um tipo especial de iterador

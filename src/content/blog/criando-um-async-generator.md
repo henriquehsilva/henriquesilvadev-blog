@@ -1,5 +1,5 @@
 ---
-title: "Criando um Async Generator Function"
+title: "Criando um Async Generator"
 description: "Um generator assíncrono é semelhante a um generator de sincrono em que a chamada de next() é retornada
 a execução do generator até atingir a palavra-chave yield. Mas no lugar de retornar true e um objeto simples, next() retorna uma promise."
 pubDate: "Jul 20 2023"
