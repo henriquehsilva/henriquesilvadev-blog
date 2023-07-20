@@ -8,19 +8,22 @@ pubDate: "Jul 19 2023"
 badge: "#JAVASCRIPT"
 tags: ["JS", "ES6"]
 ---
-
-As <b>generator functions</b> aprimoram o processo de definição do protocolo iterável
-fornecendo um algoritmo iterativo. Quando chamada, uma <b>generator function</b> não
-se executa seu corpo imediatamente. Em vez disso, ele retorna um tipo especial de iterador
-conhecido como <b>generator object</b>, conforme mostrado na imagem a seguir.
+<p style="text-align: justify">
+    As <b>generator functions</b> aprimoram o processo de definição do protocolo iterável
+    fornecendo um algoritmo iterativo. Quando chamada, uma <b>generator function</b> não
+    se executa seu corpo imediatamente. Em vez disso, ele retorna um tipo especial de iterador
+    conhecido como <b>generator object</b>, conforme mostrado na imagem a seguir.
+</p>
 
 ![Generator Function Cycle](/generatorFunctionCycle.jpg "Generation Function Cycle")
 
-Podemos executar o corpo da <b>generator function</b> chamando seu método <b>next()</b>. 
-O <b>yield</b> palavra-chave que pausa o <b>generator</b> e especifica o <b>valor</b> a ser retornado. 
-Vamos demostrar em um algoritmo fácil de implementar.
-Observe o <b>asterisco</b> após a palavra-chave function na linha 5. Este é o nosso <b>generator function</b>
-e define um iterador personalizado para coleção:
+<p style="text-align: justify">
+    Podemos executar o corpo da <b>generator function</b> chamando seu método <b>next()</b>. 
+    O <b>yield</b> palavra-chave que pausa o <b>generator</b> e especifica o <b>valor</b> a ser retornado. 
+    Vamos demostrar em um algoritmo fácil de implementar.
+    Observe o <b>asterisco</b> após a palavra-chave function na linha 5. Este é o nosso <b>generator function</b>
+    e define um iterador personalizado para coleção:
+</p>
 
 ```javascript
 const collection = {
@@ -43,14 +46,16 @@ console.log(iterator.next()); // ⇒ {value: undefined, done: true}
 
 ```
 
-Usamos um loop <b>for...in</b> dentro do generator para iterar sobre as propriedades do objeto. 
-A cada iteração, a palavra-chave <b>yield</b> interrompe a execução do loop e
-retorna o valor da propriedade seguinte ao <b>caller</b>.
-É possível chamar uma <b>generator function</b> quantas vezes forem necessárias, e cada
-vez que é chamado ele retorna um novo <b>generator object</b>. 
-Mas um <b>generator object</b> pode ser iterado apenas uma vez. 
-Como o objeto retornado por um <b>generator</b> é sempre um <b>iterador</b>,
-pode usar a sintaxe <b>for...of</b> para iterar sobre o resultado também.
+<p style="text-align: justify">
+    Usamos um loop <b>for...in</b> dentro do generator para iterar sobre as propriedades do objeto. 
+    A cada iteração, a palavra-chave <b>yield</b> interrompe a execução do loop e
+    retorna o valor da propriedade seguinte ao <b>caller</b>.
+    É possível chamar uma <b>generator function</b> quantas vezes forem necessárias, e cada
+    vez que é chamado ele retorna um novo <b>generator object</b>. 
+    Mas um <b>generator object</b> pode ser iterado apenas uma vez. 
+    Como o objeto retornado por um <b>generator</b> é sempre um <b>iterador</b>,
+    pode usar a sintaxe <b>for...of</b> para iterar sobre o resultado também.
+</p>
 
 ```javascript
 for (let value of collection) {
@@ -75,7 +80,8 @@ for (let value of collection2) {
 // return
 // TypeError: collection2 is not iterable
 ```
-
-Agora que sabemos como funcionam os <b>generators</b> síncronos, vamos ver como funciona as chamadas assíncronas:
+<p style="text-align: justify">
+    Agora que sabemos como funcionam os <b>generators</b> síncronos, vamos ver como funciona as chamadas assíncronas:
+</p>
 
 [Criando um Async Generator Function](https://henriquesilva.dev/blog/criando-um-async-generator)

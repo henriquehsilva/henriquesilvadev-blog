@@ -6,13 +6,13 @@ pubDate: "Jul 19 2023"
 badge: "#JAVASCRIPT"
 tags: ["JS", "ES6"]
 ---
-
-Um <b>generator</b> assíncrono é semelhante a um <b>generator</b> sincrono em que a chamada de <b>next()</b> é retornada
-a execução do generator até atingir a palavra-chave <b>yield</b>. Mas no lugar de retornar true e um objeto simples, next() retorna uma <b>promise</b>.
-
-Você pode pensar em um <b>generator</b> assíncrono como uma combinação de uma <b>async function</b>
-e uma <b>generator function</b>. Vamos escrever um exemplo que recupera dados de arquivos json passados via URLs, usando uma <b>generator function</b>. 
-Observe a palavra-chave <b>async</b> e o símbolo de asterisco <b>(*)</b> na linha 7 indicando um <b>async generator</b>:
+<p style="text-align: justify">
+    Um <b>generator</b> assíncrono é semelhante a um <b>generator</b> sincrono em que a chamada de <b>next()</b> é retornada
+    a execução do generator até atingir a palavra-chave <b>yield</b>. Mas no lugar de retornar true e um objeto simples, next() retorna uma <b>promise</b>.
+    Você pode pensar em um <b>generator</b> assíncrono como uma combinação de uma <b>async function</b>
+    e uma <b>generator function</b>. Vamos escrever um exemplo que recupera dados de arquivos json passados via URLs, usando uma <b>generator function</b>. 
+    Observe a palavra-chave <b>async</b> e o símbolo de asterisco <b>(*)</b> na linha 7 indicando um <b>async generator</b>:
+</p>
 
 ```javascript
 const srcArr = [
@@ -48,16 +48,17 @@ iterator.next().then(result => {
 });
 
 ```
-
-Nesse <b>generator</b>, usamos a palavra-chave <b>await</b> para aguardar a conclusão da operação de busca. 
-Tal como acontece com as <b>generator functions</b> síncronas, os retornos de rendimento
-o resultado para o chamador da função. Observe como este <b>async generator</b>
-simplifica o processo de definição do protocolo iterável assíncrono. Não é
-apenas mais fácil de escrever, mas também menos sujeito a erros.
-Na produção, você também vai querer usar <b>catch()</b> para lidar com erros e mensagens rejeitadas.
-Um programa bem projetado deve ser capaz de se recuperar
-de erros comuns sem encerrar o aplicativo. Você pode encadear um
-<b>catch()</b> da mesma forma que seu método irmão <b>then()</b>. Exemplo:
+<p style="text-align: justify">
+    Nesse <b>generator</b>, usamos a palavra-chave <b>await</b> para aguardar a conclusão da operação de busca. 
+    Tal como acontece com as <b>generator functions</b> síncronas, os retornos de rendimento
+    o resultado para o chamador da função. Observe como este <b>async generator</b>
+    simplifica o processo de definição do protocolo iterável assíncrono. Não é
+    apenas mais fácil de escrever, mas também menos sujeito a erros.
+    Na produção, você também vai querer usar <b>catch()</b> para lidar com erros e mensagens rejeitadas.
+    Um programa bem projetado deve ser capaz de se recuperar
+    de erros comuns sem encerrar o aplicativo. Você pode encadear um
+    <b>catch()</b> da mesma forma que seu método irmão <b>then()</b>. Exemplo:
+</p>
 
 ```javascript
 iterator.next()
@@ -69,5 +70,7 @@ iterator.next()
 });
 
 ```
-Se ocorrer um erro, <b>catch()</b> será executado com o motivo da rejeição passado como
-seu argumento.
+<p style="text-align: justify">
+    Se ocorrer um erro, <b>catch()</b> será executado com o motivo da rejeição passado como
+    seu argumento.
+</p>
