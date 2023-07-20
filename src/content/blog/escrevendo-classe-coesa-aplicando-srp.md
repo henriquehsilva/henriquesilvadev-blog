@@ -2,8 +2,8 @@
 title: "Escrevendo classes coesas aplicando SRP"
 description: "Com certeza, a coesão é uma das palavras amplamente reconhecidas pelos programadores que trabalham com linguagens orientadas a objeto. Seu significado é bastante claro: uma classe é considerada coesa quando possui uma única responsabilidade, evitando abranger mais de um contexto no sistema."
 pubDate: "Jul 20 2023"
-badge: "#JAVASCRIPT"
-tags: ["JS", "ES6"]
+badge: "#OOP"
+tags: ["SOLID", "SRP"]
 ---
 
 <p style="text-align: justify">
