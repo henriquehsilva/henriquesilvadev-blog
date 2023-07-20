@@ -80,12 +80,12 @@ class StudentEmails {
 ```
 <p style="text-align: justify">
     Agora separamos cada funcionalidade em nosso programa. Podemos chamar as classes em qualquer lugar que quisermos para usá-las em nosso código.
-
+</p>
+<p style="text-align: justify">
     Os exemplos que usamos mostram apenas que cada classe tem um método – isso é principalmente para simplificar. Você pode ter quantos métodos quiser, mas eles devem estar vinculados à responsabilidade da classe.
-
+</p>
+<p style="text-align: justify">
     Agora que separamos a lógica, nosso código fica mais fácil de entender, pois cada funcionalidade principal tem sua própria classe. Podemos testar os erros com mais eficiência.
-
     O código agora é reutilizável. Antes, só podíamos usar essas funcionalidades dentro de uma classe, mas agora elas podem ser usadas em qualquer classe.
-
     O código também é de fácil manutenção e escalabilidade porque, em vez de ler linhas de código interconectadas, separamos preocupações para que possamos nos concentrar nos recursos nos quais queremos trabalhar.
 </p>
