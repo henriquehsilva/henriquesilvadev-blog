@@ -36,15 +36,15 @@ srcArr[Symbol.asyncIterator] = async function*() { // ⇒ linha 7
 const iterator = srcArr[Symbol.asyncIterator]();
 
 iterator.next().then(result => {
-    console.log(result.value.firstName); // ⇒ John
+    console.log(result.value.firstName); // ⇒ Fatima
 });
 
 iterator.next().then(result => {
-    console.log(result.value.firstName); // ⇒ Peter
+    console.log(result.value.firstName); // ⇒ Larissa
 });
 
 iterator.next().then(result => {
-    console.log(result.value.firstName); // ⇒ Anna
+    console.log(result.value.firstName); // ⇒ Maria
 });
 
 ```
