@@ -2,7 +2,7 @@
 title: "Feature Leads: Capacitando equipes de tecnologia para navegar sem problemas"
 description: "Ser um Tech Lead não é tarefa fácil; envolve fazer malabarismos com várias responsabilidades, lidar com a mudança de contexto e direcionar a equipe para objetivos técnicos comuns."
 pubDate: "Jul 26 2023"
-heroImage: "bucaneiro.jpg"
+heroImage: "/bucaneiro.jpg"
 badge: "#FEATURE-LEAD"
 tags: ["LEAD", "TECH", "FEATURE", "TEAM"]
 ---
