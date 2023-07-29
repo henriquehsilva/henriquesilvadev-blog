@@ -5,6 +5,7 @@ a execução do generator até atingir a palavra-chave yield. Mas no lugar de re
 pubDate: "Jul 19 2023"
 badge: "#JAVASCRIPT"
 tags: ["JS", "ES6"]
+slug: "criando-um-async-generator"
 ---
 <p style="text-align: justify">
     Um <b>generator</b> assíncrono é semelhante a um <b>generator</b> sincrono em que a chamada de <b>next()</b> é retornada

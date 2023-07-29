@@ -5,6 +5,7 @@ pubDate: "Jul 28 2023"
 heroImage: "/conventional-commits.png"
 badge: "#GIT"
 tags: ["GIT", "COMMIT", "QA"]
+slug: "padrao-conventional-commits"
 ---
 
 <p style="text-align: justify">

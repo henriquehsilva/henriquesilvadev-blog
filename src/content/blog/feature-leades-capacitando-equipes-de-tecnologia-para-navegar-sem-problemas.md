@@ -5,6 +5,7 @@ pubDate: "Jul 26 2023"
 heroImage: "/bucaneiro.jpg"
 badge: "#TECH-LEAD"
 tags: ["LEAD", "TECH", "FEATURE", "TEAM"]
+slug: "feature-leades-capacitando-equipes-de-tecnologia-para-navegar-sem-problemas"
 ---
 
 <p style="text-align: justify">

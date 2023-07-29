@@ -7,6 +7,7 @@ conhecido como um generator object, conforme mostrado na imagem a seguir."
 pubDate: "Jul 19 2023"
 badge: "#JAVASCRIPT"
 tags: ["JS", "ES6"]
+slug: "usando-um-generator-function-para-definir-um-interador-personalizado"
 ---
 <p style="text-align: justify">
     As <b>generator functions</b> aprimoram o processo de definição do protocolo iterável

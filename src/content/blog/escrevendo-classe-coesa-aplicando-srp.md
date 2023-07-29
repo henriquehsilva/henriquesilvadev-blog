@@ -4,6 +4,7 @@ description: "Com certeza, a coesão é uma das palavras amplamente reconhecidas
 pubDate: "Jul 20 2023"
 badge: "#OOP"
 tags: ["SOLID", "SRP"]
+slug: "escrevendo-classe-coesa-aplicando-srp"
 ---
 
 <p style="text-align: justify">
