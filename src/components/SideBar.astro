@@ -18,14 +18,20 @@ const { sideBarActiveItemID } = Astro.props;
       </a>
     </div>
     <div class="pb-12 mt-5">
-      <div class="text-4xl font-bold">Henrique Silva</div>
-      <div class="text-3xl py-3 font-bold">I'm a programmer</div>
-      <div class="py-2">
+      <div class="text-2xl text-center">Henrique Silva</div>
+      <div class="text-1xl py-1 font-bold text-center">Software Developer</div>
+      <!-- <div class="py-2">
         <text class="text-3xl py-2">
           <i>"One is glad to be of service."</i>  
         </text>
         <p> - Robin Williams | Bicentennial Man (1999) </p>
-      </div>
+      </div> -->
+      <p class="text-justify" style="padding: 15px">
+        Sou um desenvolvedor autodidata que fez a transição da administração de empresas para o desenvolvimento web há +7 anos. 
+        A maior parte da minha experiência vem de trabalhar como desenvolvedor full-stack (embora um pouco mais voltado para back-end) 
+        em empresas de diferentes tamanhos e em vários setores, como educação, saúde, financeiro e governo. 
+        Gosto de escrever código limpo e sustentável, resolver problemas complexos e trocar conhecimento com meus colegas.
+      </p>
       <div class="pb-12 mt-5">
         <a class="btn btn-outline ml-5" href="https://www.linkedin.com/in/henriquesilvadev/" target="_blank">
           <svg
@@ -55,7 +61,7 @@ const { sideBarActiveItemID } = Astro.props;
           GitHub
         </a>
       </div>
-      <SideBarMenu sideBarActiveItemID={sideBarActiveItemID} />
+      <!-- <SideBarMenu sideBarActiveItemID={sideBarActiveItemID} /> -->
     </div>
     <SideBarFooter />
   </aside>
