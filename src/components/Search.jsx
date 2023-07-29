@@ -67,7 +67,7 @@ function Search({ searchList }) {
                                focus:outline-none
                                focus:ring-blue-500
                                focus:border-blue-500"
-          placeholder="Search for anything..."
+          placeholder="Busque por qualquer coisa..."
         />
       </div>
 
