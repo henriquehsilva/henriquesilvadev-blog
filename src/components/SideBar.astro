@@ -26,12 +26,12 @@ const { sideBarActiveItemID } = Astro.props;
         </text>
         <p> - Robin Williams | Bicentennial Man (1999) </p>
       </div> -->
-      <p class="text-justify" style="padding: 15px">
+      <!-- <p class="text-justify" style="padding: 15px">
         Sou um desenvolvedor autodidata que fez a transição da administração de empresas para o desenvolvimento web há +7 anos. 
         A maior parte da minha experiência vem de trabalhar como desenvolvedor full-stack (embora um pouco mais voltado para back-end) 
         em empresas de diferentes tamanhos e em vários setores, como educação, saúde, financeiro e governo. 
         Gosto de escrever código limpo e sustentável, resolver problemas complexos e trocar conhecimento com meus colegas.
-      </p>
+      </p> -->
       <div class="pb-12 mt-5">
         <a class="btn btn-outline ml-5" href="https://www.linkedin.com/in/henriquesilvadev/" target="_blank">
           <svg
@@ -61,7 +61,8 @@ const { sideBarActiveItemID } = Astro.props;
           GitHub
         </a>
       </div>
-      <!-- <SideBarMenu sideBarActiveItemID={sideBarActiveItemID} /> -->
+      <h3 style="margin-left: 10px;font-size: 18px; opacity: 0.6"><b>Recursos</b></h3>
+      <SideBarMenu sideBarActiveItemID={sideBarActiveItemID} />
     </div>
     <SideBarFooter />
   </aside>
