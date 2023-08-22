@@ -7,19 +7,20 @@ const { sideBarActiveItemID } = Astro.props;
 
 <div class="drawer-side z-40">
   <label for="my-drawer" class="drawer-overlay"></label>
-  <aside class="px-2 pt-2 h-auto min-h-full w-[19rem] bg-base-300 text-base-content flex flex-col">
+  <aside class="px-2 pt-2 h-auto min-h-full w-[20rem] bg-base-300 text-base-content flex flex-col">
     <div class="w-fit mx-auto mt-5 mb-6">
       <a href="/">
-        <div class="avatar transition ease-in-out hover:scale-[102%] block m-auto">
-          <div class="w-[8.5rem]">
-            <Image class="mask mask-circle" aspectRatio="1:1" format="webp" width={300} height={300} src="/profile.jpeg" alt="Profile image" />
+        <div class="avatar transition ease-in-out hover:scale-[92%] block m-auto">
+          <div class="w-[9.5rem]">
+            <Image class="mask mask-circle" aspectRatio="3:3" format="webp" width={300} height={300} src="/profile.jpeg" alt="Profile image" />
           </div>
         </div>
       </a>
     </div>
-    <div class="pb-12 mt-5">
-      <div class="text-2xl font-bold text-center">Henrique Silva</div>
-      <div class="text-1xl py-1 text-center">Software Developer</div>
+    <div class="pb-5 mt-1">
+      <div class="text-2xl text-left"><span class="font-bold">Henrique Silva</span><small> (Ele/Dele)</small></div>
+      <div class="text-1xl py-1 text-left">Senior Software Developer</div>
+      <div class="text-1xl py-0 text-left"><small>Anápolis, Goiás, Brasil - </small>  <small class="font-bold"><a href="mailto:contato@henriquesilva.dev">Contato</a></small></div>
       <!-- <div class="py-2">
         <text class="text-3xl py-2">
           <i>"One is glad to be of service."</i>  
@@ -32,7 +33,9 @@ const { sideBarActiveItemID } = Astro.props;
         em empresas de diferentes tamanhos e em vários setores, como educação, saúde, financeiro e governo. 
         Gosto de escrever código limpo e sustentável, resolver problemas complexos e trocar conhecimento com meus colegas.
       </p> -->
+      
       <div class="pb-12 mt-5">
+        <br />
         <a class="btn btn-outline ml-5" href="https://www.linkedin.com/in/henriquesilvadev/" target="_blank">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -61,8 +64,8 @@ const { sideBarActiveItemID } = Astro.props;
           GitHub
         </a>
       </div>
-      <h3 style="margin-left: 10px;font-size: 18px; opacity: 0.6"><b>Recursos</b></h3>
-      <SideBarMenu sideBarActiveItemID={sideBarActiveItemID} />
+      
+      <!-- <SideBarMenu sideBarActiveItemID={sideBarActiveItemID} /> -->
     </div>
     <SideBarFooter />
   </aside>
