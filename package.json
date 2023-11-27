@@ -26,7 +26,9 @@
     "fuse.js": "^6.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sharp": "^0.32.1"
+    "rehype-pretty-code": "^0.10.1",
+    "sharp": "^0.32.1",
+    "shiki": "^0.14.4"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9"
