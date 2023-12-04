@@ -7,7 +7,7 @@
   }
   
   [style*="--aspect-ratio"] > img {  
-    height: auto;
+    height: 600px;
   }
   
   @supports (--custom:property) {
