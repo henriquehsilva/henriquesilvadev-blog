@@ -7,7 +7,7 @@ tags: ["Praticando", "lichess AI"]
 slug: "lichess AI"
 ---
 
-<div style="--aspect-ratio: 16/9;">
+<div style="--aspect-ratio: 16/9;" class="rotate">
     <iframe src="https://lichess.org/embed/game/i8jdZ2qN?theme=auto&bg=auto#1"
     width=800 height=597 frameborder=0></iframe>
 </div>
