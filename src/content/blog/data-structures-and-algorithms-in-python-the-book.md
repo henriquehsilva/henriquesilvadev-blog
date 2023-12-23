@@ -26,4 +26,4 @@ slug: "data-structures-and-algorithms-in-python-the-book"
     A obra não apenas explora os conceitos teóricos, mas também fornece exemplos práticos e exercícios que solidificam a compreensão. A linguagem acessível utilizada pelo autor facilita a assimilação, tornando o aprendizado de estruturas de dados e algoritmos uma jornada empolgante e recompensadora.
 </p>
 
-[Link para compra do livro](https://pragprog.com/titles/jwpython/a-common-sense-guide-to-data-structures-and-algorithms-in-python-volume-1)
+[A Common-Sense Guide to Data Structures and Algorithms in Python, Volume 1](https://pragprog.com/titles/jwpython/a-common-sense-guide-to-data-structures-and-algorithms-in-python-volume-1)
