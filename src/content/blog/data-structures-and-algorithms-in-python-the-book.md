@@ -5,6 +5,7 @@ pubDate: "Dec 23 2023"
 badge: "#LIVRO"
 tags: ["DATA-STRUCTURES", "ALGORITHMS", "PYTHON"]
 slug: "data-structures-and-algorithms-in-python-the-book"
+heroImage: "/data-structure-and-algorithms-hero-1.jpg"
 ---
 
 <p style="text-align: justify">
