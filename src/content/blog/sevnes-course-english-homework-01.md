@@ -16,7 +16,7 @@ heroImage: "/sevnes-logo.jpeg"
 
 **Dream:** What are you doing?
 
-**Death:** I`m taking my shoes off. You should take yours too, it’s good to touch the Earth with your bare feet. It’s grounding! Come on, I don’t want to miss the next one.
+**Death:** I`m taking my shoes off. You should take yours too, it’s good to touch the Earth with your <mark>bare feet</make>. It’s <mark>grounding!</make> Come on, I don’t want to <mark>miss</mark> the next one.
 
 **Death:** Hi Sam.
 
@@ -40,35 +40,35 @@ heroImage: "/sevnes-logo.jpeg"
 
 **Dream:** Be there for all of them.
 
-**Death:** I have a job to do. And I do it. When the first living thing existed, I was there. When the last living thing dies, I’ll put the chairs of the table, turn out the lights and lock the universe behind me when I leave.
-And I`m not there for all of them, there are exceptions: Mad Hettie, and then there is your ongoing project.
-How is he faring up after all this time?
+**Death:** I have a job to do. And I do it. When the first living <mark>thing</mark> existed, I was there. When the last living <mark>thing</mark> dies, I’ll put the chairs of the table, turn out the lights and lock the universe <mark>behind</mark> me when I leave.
+And I`m not there for all of them, there are exceptions: Mad Hettie, and then there is your <mark>ongoing</mark> project.
+How is he <mark>faring</mark> up after all this time?
 
 **Dream:** Who? Hob Gadling?
 
 **Death:** Uhum..
 
-**Dream:** I don’t know. I was forced to miss our last appointment.
+**Dream:** I don’t know. I was forced to <mark>miss</mark> our last appointment.
 
-**Death:** Well, I’m sure he would love to see you. They are never too keen to see me, though.
+**Death:** Well, I’m sure he would love to see you. They are never too <mark>keen</mark> to see me, though.
 
-**Dream:** Does it not bother you?
+**Dream:** Does it not <mark>bother</mark> you?
 
-**Death:** I actually used to think I had the hardest job in all of our family.
+**Death:** I actually used to think I <mark>had the hardest</mark> job in all of our family.
 
 **Dream:** Oh, did you?
 
-**Death:** They fear the Sunless Lands, yet they enter your realm every night without fear.
+**Death:** They <mark>fear</mark> the Sunless Lands, yet they enter your <mark>realm every</mark> night without <mark>fear</mark>.
 
-**Dream:** And yet, I’m far more terrible than you.
+**Dream:** And yet, I’m <mark>far</mark> more terrible than you.
 
-**Death:** It was fine in the beginning. Dying and living were new things and people did them with the enthusiasm they always bring to new things. And then after a bit, it just got harder.
+**Death:** It was fine in the beginning. <mark>Dying</mark> and living were new things and people did them with the enthusiasm they always <mark>bring</mark> to new things. And then after a bit, it just got harder.
 
 **Dream:** But you continued…
 
-**Death:** I thought about giving up, walking out. This was a long time ago, long before this world. It really started to get to me, I got kind of hard and brittle inside.
-I mean, people feel as pleased to have been born as if they did it themselves.
-But they get upset and hurt and shaken when they die.
+**Death:** I <mark>thought</mark> about <mark>giving up</mark>, walking out. This was a long time ago, long before this world. It really started to get to me, I got kind of hard and brittle inside.
+I <mark>mean</mark>, people <mark>feel as pleased</mark> to have been born as if they did it themselves.
+But they get upset and hurt and <mark>shaken</mark> when they die.
 But eventually, I learned that all they really need is a kind word and a friendly face.
 Like they had in the beginning.
 
