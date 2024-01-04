@@ -16,7 +16,7 @@ heroImage: "/sevnes-logo.jpeg"
 
 **Dream:** What are you doing?
 
-**Death:** I`m taking my shoes off. You should take yours too, it’s good to touch the Earth with your <mark>bare feet</make>. It’s <mark>grounding!</make> Come on, I don’t want to <mark>miss</mark> the next one.
+**Death:** I`m taking my shoes off. You should take yours too, it’s good to touch the Earth with your <mark>bare feet</mark>. It’s <mark>grounding!</mak> Come on, I don’t want to <mark>miss</mark> the next one.
 
 **Death:** Hi Sam.
 
