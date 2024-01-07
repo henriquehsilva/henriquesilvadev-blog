@@ -2,7 +2,7 @@
 title: "Rewatch the scene \"Death and Dream\" from the series The Sandman"
 description: "Homework: Rewatch the scene \"Death and Dream\" from the series The Sandman and write a comprehension glossary on the unknown words."
 pubDate: "jan 04 2024"
-badge: "#EFGLISH-COURSE"
+badge: "#ENGLISH-COURSE"
 tags: ["ENGLISH", "HOMEWORK"]
 slug: "sevnes-course-english-homework-01"
 heroImage: "/sevnes-logo.jpeg"
