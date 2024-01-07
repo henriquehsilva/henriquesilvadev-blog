@@ -11,7 +11,7 @@ heroImage: "/sevnes-logo.jpeg"
 ## "A Hope in Hell" – S01E04 – The Sandman
 <div class="container">
 
-<iframe width="360" height="215" src="https://www.youtube.com/watch?v=GyjhqjIUmjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/GyjhqjIUmjg?si=uXSlOP4l7BQ0ROCF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
