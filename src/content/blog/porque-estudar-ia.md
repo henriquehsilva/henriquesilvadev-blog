@@ -22,11 +22,11 @@ heroImage: "/capela-sistina.jpg"
 <p style="text-align: justify">
     Alguns exemplos de inteligência artificial que podemos ver hoje em dia são: 
     <ul>
-        <li>Algoritimos de recomendação;</li>
-        <li>Algoritimos reconhecimento de fala;</li>
-        <li>Algoritimos reconhecimento de imagens;</li>
+        <li>Algoritmo de recomendação;</li>
+        <li>Algoritmo de reconhecimento de fala;</li>
+        <li>Algoritmo de reconhecimento de imagens;</li>
         <li>Assistentes virtuais;</li>
-        <li>Algoritimos de verificação de comportamento de compras no cartão de crédito;</li>
+        <li>Algoritmo de verificação de comportamento de compras no cartão de crédito;</li>
         <li>Veículos, drones e robos autônomos;</li>
         <li>Entre outros...</li>
     </ul>
