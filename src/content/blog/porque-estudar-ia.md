@@ -5,6 +5,7 @@ pubDate: "Jan 27 2024"
 badge: "#IA"
 tags: ["IA", "AGI"]
 slug: "porque-estudar-ia"
+heroImage: "/capela-sistina.jpg"
 ---
 <p style="text-align: justify">
     Cada vez mais temos ouvido falar em inteligência artificial nas notícias, e atualmente qualquer lançamento de produto eletrônico vem com a expressão "inteligência artificial". Eu tenho a sensação de que, se você não usa a palavra "inteligência artificial" para vender um produto, ele é considerado desatualizado ou ruim e não será vendido. Todos estão usando essa palavra como um estigma, sugerindo que há alguma técnica de inteligência artificial embutida no dispositivo, produto ou sistema que está sendo vendido. E graças a isso, o produto acaba ganhando credibilidade e uma melhor reputação. Mas então, o que é a inteligência artificial e por que está sendo tão mencionada nos dias de hoje?
