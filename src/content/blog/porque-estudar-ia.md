@@ -1,6 +1,6 @@
 ---
 title: "Porque estudar IA"
-description: "Cada vez mais temos ouvido falar em inteligência artificial nas notícias, e atualmente qualquer lançamento de produto eletrônico vem com a expressão "inteligência artificial". Eu tenho a sensação de que, se você não usa a palavra "inteligência artificial" para vender um produto, ele é considerado desatualizado ou ruim e não será vendido."
+description: "Cada vez mais temos ouvido falar em inteligência artificial nas notícias, e atualmente qualquer lançamento de produto eletrônico vem com a expressão 'inteligência artificial'. Eu tenho a sensação de que, se você não usa a palavra 'inteligência artificial' para vender um produto, ele é considerado desatualizado ou ruim e não será vendido."
 pubDate: "Jan 27 2024"
 badge: "#IA"
 tags: ["IA", "AGI"]
