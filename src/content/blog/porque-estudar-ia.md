@@ -19,15 +19,16 @@ slug: "porque-estudar-ia"
 </p>
 
 <p style="text-align: justify">
-    * Alguns exemplos de inteligência artificial que podemos ver hoje em dia são:
-    * Algoritimos de recomendação;
-    * Algoritimos reconhecimento de fala;
-    * Algoritimos reconhecimento de imagens;
-    * Assistentes virtuais;
-    * Algoritimos de verificação de comportamento de compras no cartão de crédito;
-    * Veículos e drones autônomos;
-    * Robôs que imitam comportamento humano;
-    * Entre outros...
+    Alguns exemplos de inteligência artificial que podemos ver hoje em dia são: 
+    <ul>
+        <li>Algoritimos de recomendação;</li>
+        <li>Algoritimos reconhecimento de fala;</li>
+        <li>Algoritimos reconhecimento de imagens;</li>
+        <li>Assistentes virtuais;</li>
+        <li>Algoritimos de verificação de comportamento de compras no cartão de crédito;</li>
+        <li>Veículos, drones e robos autônomos;</li>
+        <li>Entre outros...</li>
+    </ul>
 </p>
 
 <p style="text-align: justify">
