@@ -1,6 +1,6 @@
 ---
 title: "Probabilidade Part-1"
-description: "Algumas anotações de estudo inicial sobre probabilidade, tentando entender conceitos de determinístico e probabilístico."
+description: "Algumas anotações de estudo inicial sobre probabilidade, tentando entender conceitos sobre modelo determinístico e probabilístico."
 pubDate: "Feb 01 2024"
 badge: "#I2A2"
 tags: ["PROBABILIDADE", "IA"]
