@@ -34,57 +34,57 @@ heroImage: "/cara-coroa.png"
 </p>
 
 ```python
-    import numpy as np
-    import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.pyplot as plt
 
-    def coin_toss():
-        result = np.random.choice([{1: 'cara'}, {0: 'coroa'}])
-        return result
+def coin_toss():
+    result = np.random.choice([{1: 'cara'}, {0: 'coroa'}])
+    return result
 
-    def is_heads(coin_toss_result):
-        return coin_toss_result.get(1) == 'cara'
+def is_heads(coin_toss_result):
+    return coin_toss_result.get(1) == 'cara'
 
-    def experiment(n_attempts):
-        arr_results = []
+def experiment(n_attempts):
+    arr_results = []
 
-        for _ in range(n_attempts):
-            coin_toss_result = coin_toss()
-            arr_results.append(coin_toss_result)
-        return arr_results
+    for _ in range(n_attempts):
+        coin_toss_result = coin_toss()
+        arr_results.append(coin_toss_result)
+    return arr_results
 
-    def n_heads(experiment_result):
-        result = 0
-        for coin_toss_result in experiment_result:
-            if is_heads(coin_toss_result):
-                result += 1
-        return result
+def n_heads(experiment_result):
+    result = 0
+    for coin_toss_result in experiment_result:
+        if is_heads(coin_toss_result):
+            result += 1
+    return result
 
-    # Número máximo de experimentos
-    max_attempts = 1000
+# Número máximo de experimentos
+max_attempts = 1000
 
-    # Listas para armazenar os resultados
-    num_experiments = []
-    head_frequencies = []
+# Listas para armazenar os resultados
+num_experiments = []
+head_frequencies = []
 
-    # Realizar os experimentos variando o número de tentativas
-    for n_attempts in range(1, max_attempts + 1):
-        results = experiment(n_attempts)
-        head_count = n_heads(results)
-        
-        # Calcular a frequência de caras
-        head_frequency = head_count / n_attempts
-        
-        # Armazenar os resultados
-        num_experiments.append(n_attempts)
-        head_frequencies.append(head_frequency)
+# Realizar os experimentos variando o número de tentativas
+for n_attempts in range(1, max_attempts + 1):
+    results = experiment(n_attempts)
+    head_count = n_heads(results)
+    
+    # Calcular a frequência de caras
+    head_frequency = head_count / n_attempts
+    
+    # Armazenar os resultados
+    num_experiments.append(n_attempts)
+    head_frequencies.append(head_frequency)
 
-    # Criar o gráfico de linha
-    plt.plot(num_experiments, head_frequencies, marker='o')
-    plt.xlabel('Número de Experimentos')
-    plt.ylabel('Frequência de Cara')
-    plt.title('Variação da Frequência de Cara com o Número de Experimentos')
-    plt.grid(True)
-    plt.show()
+# Criar o gráfico de linha
+plt.plot(num_experiments, head_frequencies, marker='o')
+plt.xlabel('Número de Experimentos')
+plt.ylabel('Frequência de Cara')
+plt.title('Variação da Frequência de Cara com o Número de Experimentos')
+plt.grid(True)
+plt.show()
 ```
 <h3>Plot</h3>
 
