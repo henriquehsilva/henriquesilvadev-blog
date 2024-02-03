@@ -55,7 +55,7 @@ heroImage: "/bayes.png"
     Então qual a probabilidade da pessoa ter câncer, nesse nosso cenârio?
 </p>
 
-!['resultado cenário hipotético'](https://henriquesilva.dev/prob-par2-img2.png "resultado cenário hipotético")
+!['resultado cenário hipotético'](https://henriquesilva.dev/prob-part2-img2.png "resultado cenário hipotético")
 
 <p style="text-align: justify">
     O motivo dessa porcentagem está no fato de que apenas 1% da população tem câncer.
