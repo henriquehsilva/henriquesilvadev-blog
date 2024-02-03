@@ -11,8 +11,8 @@ heroImage: "/bayes.png"
 <h2>Distribuição Condicional</h2>
 
 <p style="text-align: justify">
-    Se já sabemos que um evento <b>X</b> ocorreu, isso pode (ou não) mudar a probabilidade de outro evento Y.
-    Definindo a nova probabilidade nova como <b>P(Y|X)</b><u>(probabilidade de Y dado X)</u>
+    Se já sabemos que um evento <b>X</b> ocorreu, isso pode (ou não) mudar a probabilidade de outro evento <b>Y</b>.
+    Definindo a nova probabilidade como <mark><b>P(Y|X)</b><u>(probabilidade de Y dado X)</u></mark>
 </p>
 
 <h2>Problema Proposto</h2>
@@ -29,7 +29,7 @@ heroImage: "/bayes.png"
 <h3>Vamos a questão:</h3>
 
 <p style="text-align: justify">
-    Uma pessoa fez o teste e foi diagnosticada com câncer. Qual a probabilidade dessa pessoa ter câncer? (Em um primeiro momento a maioria das pessoas cai em uma armadilha instintiva, responendendo que a probabilidade é de 90%.)
+    <mark>Uma pessoa fez o teste e foi diagnosticada com câncer. Qual a probabilidade dessa pessoa ter câncer?</mark> <u>(Em um primeiro momento a maioria das pessoas cai em uma armadilha instintiva, responendendo que a probabilidade é de 90%.)</u>
 </p>
 
 <h3>Porque do erro:</h3>
@@ -37,14 +37,14 @@ heroImage: "/bayes.png"
 <p style="text-align: justify">
     O problema é que falta uma informação para responder a questão, que é:
     <ul>
-        <li>Qual a porcentagem da população que tem câncer?</li>
+        <li>Qual a <mark>porcentagem da população que tem câncer</mark>?</li>
     </ul>
 </p>
 
 <h3>Vamos aplicar em um cenário hipotético</h3>
 
-- Vamos imaginar que 1% da população tem câncer;
-- Vamos imaginar que temos uma população de 1000 pessoas;
+- Vamos imaginar que <mark>1% da população tem câncer</mark>;
+- Vamos imaginar que temos uma população de <mark>1000 pessoas</mark>;
 
 !['cenário hipotético'](https://henriquesilva.dev/draw-01.png "cenário hipotético")
 
@@ -58,8 +58,8 @@ heroImage: "/bayes.png"
 !['resultado cenário hipotético'](https://henriquesilva.dev/prob-part2-img2.png "resultado cenário hipotético")
 
 <p style="text-align: justify">
-    O motivo dessa porcentagem está no fato de que apenas 1% da população tem câncer.
-    Mesmo o teste tendo um precisão alta de 90% de acurácia, é gerado um grande número de falsos positivos, sendo maior que a quantidade de pessoas que o teste diz ter a doença.
+    O motivo dessa porcentagem está no fato de que <mark>apenas 1% da população tem câncer</mark>.
+    Mesmo o teste tendo uma, é gerado um grande número de <mark>falsos positivos</mark>, sendo maior que a quantidade de pessoas que o teste diz ter a doença.
 </p>
 
 <h2>Naive Bayes (Conceito Teórico)</h2>
@@ -70,3 +70,11 @@ heroImage: "/bayes.png"
 
 !['Teorema de Bayes'](https://henriquesilva.dev/naive-bayes.jpeg "Teorema de Bayes")
 
+<h2>Vamos aplicar o teorema no nosso problema</h2>
+
+#### Nossos eventos:
+
+- **A** Probabilidade de ter câncer;
+- **B** Probabilidade do teste dar positivo;
+
+!['aplicando teorema'](https://henriquesilva.dev/prob-part2-img3.png "aplicando teorema")
