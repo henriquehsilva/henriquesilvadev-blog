@@ -59,7 +59,7 @@ heroImage: "/bayes.png"
 
 <p style="text-align: justify">
     O motivo dessa porcentagem está no fato de que <mark>apenas 1% da população tem câncer</mark>.
-    Mesmo o teste tendo uma, é gerado um grande número de <mark>falsos positivos</mark>, sendo maior que a quantidade de pessoas que o teste diz ter a doença.
+    Mesmo o teste ter uma acurácia alta ele gerou um grande número de <mark>falsos positivos</mark>, sendo maior que a quantidade de pessoas que o teste diz ter a doença.
 </p>
 
 <h2>Teorema de Bayes</h2>
