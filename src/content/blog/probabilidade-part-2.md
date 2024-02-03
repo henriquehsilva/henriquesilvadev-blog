@@ -11,8 +11,8 @@ heroImage: "/bayes.png"
 <h2>Distribuição Condicional</h2>
 
 <p style="text-align: justify">
-    Se já sabemos que um evento X ocorreu, isso pode (ou não) mudar a probabilidade de outro evento Y.
-    Definindo a nova probabilidade nova como P(Y|X)(probabilidade de Y dado X)
+    Se já sabemos que um evento <b>X</b> ocorreu, isso pode (ou não) mudar a probabilidade de outro evento Y.
+    Definindo a nova probabilidade nova como <b>P(Y|X)</b><u>(probabilidade de Y dado X)</u>
 </p>
 
 <h2>Problema Proposto</h2>
@@ -46,7 +46,7 @@ heroImage: "/bayes.png"
 - Vamos imaginar que 1% da população tem câncer;
 - Vamos imaginar que temos uma população de 1000 pessoas;
 
-!['cenário hipotético'](https://henriquesilva.dev/draw-01.jpeg "cenário hipotético")
+!['cenário hipotético'](https://henriquesilva.dev/draw-01.png "cenário hipotético")
 
 <p style="text-align: justify">
     Nesse cenário a quantidade de pessoas que o teste diagnosticou com câncer foi de:
@@ -55,7 +55,7 @@ heroImage: "/bayes.png"
     Então qual a probabilidade da pessoa ter câncer, nesse nosso cenârio?
 </p>
 
-!['resultado cenário hipotético'](https://henriquesilva.dev/prob-part2-img2.jpeg "resultado cenário hipotético")
+!['resultado cenário hipotético'](https://henriquesilva.dev/prob-part2-img2.png "resultado cenário hipotético")
 
 <p style="text-align: justify">
     O motivo dessa porcentagem está no fato de que apenas 1% da população tem câncer.
