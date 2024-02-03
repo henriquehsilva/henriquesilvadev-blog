@@ -62,7 +62,7 @@ heroImage: "/bayes.png"
     Mesmo o teste tendo uma, é gerado um grande número de <mark>falsos positivos</mark>, sendo maior que a quantidade de pessoas que o teste diz ter a doença.
 </p>
 
-<h2>Naive Bayes (Conceito Teórico)</h2>
+<h2>Teorema de Bayes</h2>
 
 <p style="text-align: justify">
     O teorema de Bayes <mark>é o método principal para compreender a probabilidade de algum evento</mark>, P(A|B), dado alguma nova informação, P(B|A), e uma crença prévia na probabilidade do evento, P(A):
