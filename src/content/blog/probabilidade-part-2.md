@@ -1,6 +1,6 @@
 ---
-title: "Probabilidade Part-2 (Naive Bayes)"
-description: "Algumas anotações de estudo inicial sobre probabilidade, Naive Bayes: Como funciona esse algoritimo de classificação."
+title: "Probabilidade Part-2 (Teorema Bayes)"
+description: "Algumas anotações de estudo inicial sobre probabilidade, Teorema de Bayes: Como funciona esse teorema."
 pubDate: "Feb 03 2024"
 badge: "#I2A2"
 tags: ["PROBABILIDADE", "IA", "CLASSIFICAÇÃO"]
