@@ -13,7 +13,7 @@ heroImage: "/i2a2-bg.jpeg"
 </p>
 
 <p style="text-align: justify">
-    O desafio de analisar a similaridade entre dois textos em latim foi abordado utilizando o algoritmo <a href="https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html" target="_blank">CountVectorizer</a> e contagem de n-gramas. Ao aplicar essa metodologia, a matriz resultante permitiu calcular o grau de similaridade entre os textos, revelando que o índice obtido foi de <b>0.23</b>. Esse valor indica a medida quantitativa da proximidade linguística entre os textos.
+    O desafio de analisar a similaridade entre dois textos em latim foi abordado utilizando o algoritmo <a href="https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html" target="_blank">CountVectorizer</a> e contagem de n-gramas. Ao aplicar essa metodologia, a matriz resultante permitiu calcular o grau de similaridade entre os textos, revelando que o índice obtido foi de <b>0.11</b>. Esse valor indica a medida quantitativa da proximidade linguística entre os textos.
 </p>
 
 <b>GitHub:</b> [Challende 1: Convert Text Matrix](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Convert%20Text%20Matrix)
