@@ -5,7 +5,7 @@ pubDate: "Feb 24 2024"
 badge: "#I2A2"
 tags: ["I2A2", "CHALLENGE-1", "PCA"]
 slug: "challenge-1-defective-equipament"
-heroImage: "/naive-bayes-cover.png"
+heroImage: "/i2a2-bg.jpeg"
 ---
 
 <p style="text-align: justify">
