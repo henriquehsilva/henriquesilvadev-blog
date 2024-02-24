@@ -34,4 +34,4 @@ heroImage: "/i2a2-bg.jpeg"
     <b>Obs.:</b> Variância explicada dos componentes: [0.45778535]
 </p>
 
-<b>GitHub:</b> [Challenge 1: Defective Equipament](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment)
+<b>GitHub:</b> [Challenge 1: Defective Equipment](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment)
