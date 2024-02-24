@@ -30,5 +30,8 @@ heroImage: "/i2a2-bg.jpeg"
     Destaca-se que a conclusão da análise sugere a capacidade de distinguir o <b>equipamento V3</b>, o qual exibe o maior número de sensores com acionamentos muito abaixo da média.
 </p>
 
+<p style="text-align: justify">
+    <b>Obs.:</b> Variância explicada dos componentes: [0.45778535]
+</p>
 
 <b>GitHub:</b> [Challenge 1: Defective Equipament](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipament)
