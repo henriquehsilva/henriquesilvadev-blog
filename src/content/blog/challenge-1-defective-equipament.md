@@ -18,6 +18,8 @@ heroImage: "/naive-bayes-cover.png"
     A estratégia adotada envolve a aplicação de técnicas estatísticas, incluindo a Análise de Componentes Principais (PCA).
 </p>
 
+!['Defective Equipament - Median'](https://henriquesilva.dev/defective-equipament-median.png "Defective Equipament - Median")
+
 <p style="text-align: justify">
     Ao empregar a PCA, é possível reduzir a dimensionalidade dos dados e identificar padrões nas variações dos acionamentos entre os sensores. A análise estatística utiliza a média dos acionamentos como referência, permitindo identificar equipamentos que apresentam padrões significativamente diferentes da média, indicando potenciais falhas ou comportamentos anômalos.
 </p>
