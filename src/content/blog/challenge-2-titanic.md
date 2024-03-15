@@ -14,6 +14,27 @@ heroImage: "/titanic.jpeg"
     A metodologia Cross-Industry Standard Process for Data Mining (CRISP-DM) consiste em 6 fases, incluindo compreensão do negócio, preparação de dados e análise exploratória de dados (EDA), modelagem, avaliação, implantação, bem como manutenção e monitoramento. Para este estudo de caso, será utilizado o desafio <a href="https://www.kaggle.com/competitions/titanic" target="_blank">Titanic - Machine Learning from Disaster</a> do Kaggle.
 </p>
 
+<h3>Objetivos do Trabalho</h3>
+
+- Coletar e limpar os dados do conjunto de dados do Titanic.
+- Explorar e analisar os dados para entender as tendências e padrões.
+- Desenvolver e treinar um modelo de machine learning que possa prever a sobrevivência dos passageiros com base em atributos como idade, sexo, classe socioeconômica, etc.
+- Avaliar o desempenho do modelo e refiná-lo conforme necessário para alcançar uma precisão satisfatória.
+- Fornecer insights acionáveis para melhorar as políticas de segurança em futuras viagens marítimas.
+
+<h3>Critérios de Aceite</h3>
+
+Os critérios de aceite para o projeto Titanic - Machine Learning from Disaster são:
+
+- O modelo deve ser capaz de prever com precisão a sobrevivência dos passageiros com uma taxa de acerto superior a X%.
+- A análise exploratória de dados deve fornecer insights significativos sobre os fatores que influenciaram a sobrevivência dos passageiros.
+- O código deve ser bem documentado, modular e replicável.
+- O relatório final deve resumir claramente os resultados obtidos, incluindo as limitações do modelo e possíveis melhorias futuras.
+
+<p style="text-align: justify">
+    Ao seguir a metodologia CRISP-DM (Cross-Industry Standard Process for Data Mining), podemos abordar sistematicamente esses requisitos para garantir o sucesso do projeto Titanic - Machine Learning from Disaster e fornecer resultados valiosos para a melhoria da segurança marítima.
+</p>
+
 <h3>Fase 1: Entendimento do Negócio</h3>
 
 <p style="text-align: justify">
@@ -42,9 +63,24 @@ df = pd.read_csv(f"{data_path}/train.csv")
 </p>
 
 ```python
-
 df.info()
-
 ```
 
-[!['Dataframe.info()'](https://henriquesilva.dev/df_info.png "Dataframe.info()")]
+!['Dataframe.info()'](https://henriquesilva.dev/df_info.png "Dataframe.info()")
+
+
+<p style="text-align: justify">
+    Para obter uma compreensão básica dos dados, podeamos usar função DataFrame.describe(). Por padrão, esta função retorna estatísticas descritivas para as variáveis numéricas. No entanto, podemos descobrir as informações dos objetos incluindo include=’object’ como parâmetro.
+</p>
+
+```python
+df.describe()
+```
+
+!['Dataframe.describe()'](https://henriquesilva.dev/df_describe.png "Dataframe.describe()")
+
+```python
+df.describe(include=object)
+```
+
+!['Dataframe.describe(include=object)'](https://henriquesilva.dev/df_describe_obj.png "Dataframe.describe(include=object)")
