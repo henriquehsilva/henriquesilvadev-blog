@@ -117,7 +117,8 @@ def prepare_data(df):
     # Binarizar sexo
     df['Sex'] = df['Sex'].map({'female': 1, 'male': 0}).astype(int)
 
-    # Preencha os dados faltantes: [Embarked] com valor mais frequente
+    # Preencha os dados faltantes: media de [Fare] e [Embarked] com valor mais frequente
+    df[['Fare']] = df[['Fare']].fillna(value=df[['Fare']].mean())
     df[['Embarked']] = df[['Embarked']].fillna(value=df['Embarked'].value_counts().idxmax())
 
     # Converter [Embarked] para "one-hot"
@@ -167,3 +168,13 @@ train_df.info()
 ```
 
 !['Imputação com base em outras variáveis'](https://henriquesilva.dev/info_total.png "Imputação com base em outras variáveis")
+
+<p style="text-align: justify">
+<b>Obs.:</b> Após o processo de preparação dos dados temos: 
+</p>
+
+```python
+test_df.info()
+```
+
+!['Info total test'](https://henriquesilva.dev/info_total_test.png "Info total test")
