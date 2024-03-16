@@ -5,7 +5,7 @@ pubDate: "Mar 16 2024"
 badge: "#I2A2"
 tags: ["I2A2", "CHALLENGE-2", "TITANIC"]
 slug: "challenge-2-titanic"
-heroImage: "/titanic.jpeg"
+heroImage: "/titanic_4-61.jpg"
 ---
 
 <h3>CRISP-DM</h3>
@@ -54,16 +54,33 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 import seaborn as sns
 
-data_path = "/Users/henriquesilvadev/Projects/I2A2-Training/Challenge 2/data"
+# Input files
+file_train='./data/train.csv'
+file_test='./data/test.csv'
 
-df = pd.read_csv(f"{data_path}/train.csv")
+seed = 69
+np.random.seed(seed)
+
+train_df = pd.read_csv(file_train,index_col='PassengerId')
+test_df = pd.read_csv(file_test,index_col='PassengerId')
 ```
+
+```python
+train_df.columns.values
+```
+!['Show columns'](https://henriquesilva.dev/show_columns.png "Show columns")
+
+```python
+train_df.shape
+```
+!['Show shape'](https://henriquesilva.dev/shape_titanic.png "Show shape")
+
 <p style="text-align: justify">
     Usando Dataframe.info(), sabemos que o conjunto de dados é composto por 12 colunas e 891 linhas. 5 colunas de dados estão na forma de números inteiros, 2 colunas de dados estão na forma de números de ponto flutuante, enquanto o restante está na forma de string. Também podemos concluir que há valores ausentes em 3 colunas [Age, Cabin, Embarked] dos dados.
 </p>
 
 ```python
-df.info()
+train_df.info()
 ```
 
 !['Dataframe.info()'](https://henriquesilva.dev/df_info.png "Dataframe.info()")
@@ -74,13 +91,13 @@ df.info()
 </p>
 
 ```python
-df.describe()
+train_df.describe()
 ```
 
 !['Dataframe.describe()'](https://henriquesilva.dev/df_describe.png "Dataframe.describe()")
 
 ```python
-df.describe(include=object)
-```
+train_df.isnull().sum()
+````
 
-!['Dataframe.describe(include=object)'](https://henriquesilva.dev/df_describe_obj.png "Dataframe.describe(include=object)")
+!['Dataframe.isnull().sum()'](https://henriquesilva.dev/isnull.png "Dataframe.isnull().sum()")
