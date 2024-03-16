@@ -137,3 +137,33 @@ train_df = prepare_data(train_df)
 ```
 
 !['Prepare data'](https://henriquesilva.dev/prep_data_titanic.png "Prepare data")
+
+```python
+# Imputação com base em outras variáveis: agrupando os dados por sexo e classe socioeconômica
+# em seguida, calcula a mediana da idade em cada grupo para preencher os valores faltantes.
+
+def filter_ages_to_sex_and_pclass(sex_id, pclass_id, df):
+    df = df[df['Sex'].isin([sex_id])]
+    df = df[df['Pclass'].isin([pclass_id])]
+    df.loc[:, 'Age'] = round(df['Age'].fillna(value=df['Age'].median()))
+
+    return df
+```
+
+```python
+df1 = filter_ages_to_sex_and_pclass(1, 1, train_df)
+df2 = filter_ages_to_sex_and_pclass(1, 2, train_df)
+df3 = filter_ages_to_sex_and_pclass(1, 3, train_df)
+df4 = filter_ages_to_sex_and_pclass(0, 1, train_df)
+df5 = filter_ages_to_sex_and_pclass(0, 2, train_df)
+df6 = filter_ages_to_sex_and_pclass(0, 3, train_df)
+```
+
+```python
+frames = [df1, df2, df3, df4, df5, df6]
+train_df = pd.concat(frames).sort_index()
+
+train_df.info()
+```
+
+!['Imputação com base em outras variáveis'](https://henriquesilva.dev/info_total.png "Imputação com base em outras variáveis")
