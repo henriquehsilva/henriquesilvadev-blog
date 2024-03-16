@@ -75,6 +75,13 @@ train_df.shape
 ```
 !['Show shape'](https://henriquesilva.dev/shape_titanic.png "Show shape")
 
+
+```python
+train_df.head()
+````
+
+!['train_df.head()'](https://henriquesilva.dev/head_titanic.png "train_df.head()")
+
 <p style="text-align: justify">
     Usando Dataframe.info(), sabemos que o conjunto de dados é composto por 12 colunas e 891 linhas. 5 colunas de dados estão na forma de números inteiros, 2 colunas de dados estão na forma de números de ponto flutuante, enquanto o restante está na forma de string. Também podemos concluir que há valores ausentes em 3 colunas [Age, Cabin, Embarked] dos dados.
 </p>
@@ -101,3 +108,32 @@ train_df.isnull().sum()
 ````
 
 !['Dataframe.isnull().sum()'](https://henriquesilva.dev/isnull.png "Dataframe.isnull().sum()")
+
+```python
+def prepare_data(df):
+    # Remove colunas não relevantes
+    df.drop(['Name', 'Ticket', 'Cabin'], axis = 'columns', inplace = True)
+
+    # Binarizar sexo
+    df['Sex'] = df['Sex'].map({'female': 1, 'male': 0}).astype(int)
+
+    # Preencha os dados faltantes: [Embarked] com valor mais frequente
+    df[['Embarked']] = df[['Embarked']].fillna(value=df['Embarked'].value_counts().idxmax())
+
+    # Converter [Embarked] para "one-hot"
+    enbarked_one_hot = pd.get_dummies(df['Embarked'], prefix='Embarked', dtype=int)
+    df.drop('Embarked', axis= 'columns', inplace = True)
+    df = df.join(enbarked_one_hot)
+
+    # Define index ao [PasseId]
+    df.rename_axis(None, axis = 'rows', inplace = True)
+    df.rename_axis('PasserId', axis = 'columns', inplace = True)
+
+    return df
+````
+
+```python
+train_df = prepare_data(train_df)
+```
+
+!['Prepare data'](https://henriquesilva.dev/prep_data_titanic.png "Prepare data")
