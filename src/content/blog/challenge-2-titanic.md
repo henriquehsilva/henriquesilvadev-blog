@@ -48,13 +48,12 @@ Os critérios de aceite para o projeto Titanic - Machine Learning from Disaster 
 </p>
 
 ``` python
-import numpy as np # linear algebra
-import pandas as pd # data processing
+import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 %matplotlib inline
 import seaborn as sns
 
-# Input files
 file_train='./data/train.csv'
 file_test='./data/test.csv'
 
@@ -139,10 +138,11 @@ train_df = prepare_data(train_df)
 
 !['Prepare data'](https://henriquesilva.dev/prep_data_titanic.png "Prepare data")
 
-```python
-# Imputação com base em outras variáveis: agrupando os dados por sexo e classe socioeconômica
-# em seguida, calcula a mediana da idade em cada grupo para preencher os valores faltantes.
+<p style="text-align: justify">
+<b>Imputação com base em outras variáveis:</b> agrupando os dados por sexo e classe socioeconômica em seguida, calcula a mediana da idade em cada grupo para preencher os valores faltantes.
+</p>
 
+```python
 def filter_ages_to_sex_and_pclass(sex_id, pclass_id, df):
     df = df[df['Sex'].isin([sex_id])]
     df = df[df['Pclass'].isin([pclass_id])]
@@ -169,8 +169,16 @@ train_df.info()
 
 !['Imputação com base em outras variáveis'](https://henriquesilva.dev/info_total.png "Imputação com base em outras variáveis")
 
+<h3>Scatterplot Matrix</h3>
+
+```python
+sns.set_theme(style = "ticks")
+sns.pairplot(train_df, hue = "Survived")
+```
+!['Scatterplot Matrix'](https://henriquesilva.dev/scatterplot_m_titanic.png "Scatterplot Matrix")
+
 <p style="text-align: justify">
-<b>Obs.:</b> Após o processo de preparação dos dados temos: 
+<b>Obs.:</b> Após replicar o processo de preparação dos dados em <b>test_df</b> temos: 
 </p>
 
 ```python
