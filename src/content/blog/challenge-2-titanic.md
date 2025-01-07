@@ -26,7 +26,7 @@ heroImage: ""
 2. Repetir 6X :  Correr 5' Z2 - Pouca ofegância (07:30 a 07:04/km) 8 a 8,5km/h    completar entre 0,65 e 0,7km
 3. Caminhar 1'
 
-<h4>Resultados do Treino</h4>
+<h3>Resultados do Treino</h3>
 
 !['Treino Corrida 070125'](https://henriquesilva.dev/treino-corrida-070125.png "Treino Corrida 070125")
 
@@ -35,6 +35,16 @@ heroImage: ""
 Ao chegar em casa, decidi fazer uma checagem de peso e fiquei muito feliz com os resultados.
 
 !['Pesagem 070125'](https://henriquesilva.dev/checagem-peso-070125.png "Pesagem 070125")
+
+<h3>10h - Refeição 01</h3>
+
+Finalizei o jejum de 14h, e realizei a primeira refeição do dia.
+
+- Pão com queijo e presunto;
+- 1 Banana média;
+- Café preto sem açúcar 
+
+!['Refeição 01 070125'](https://henriquesilva.dev/refeicao-01-070125.png "Refeição 01 070125")
 
 
 - O modelo deve ser capaz de prever com precisão a sobrevivência dos passageiros com uma taxa de acerto superior a X%.
