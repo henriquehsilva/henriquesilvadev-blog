@@ -1,18 +1,20 @@
 ---
-title: "Challenge 2: Titanic - Machine Learning from Disaster"
-description: "As necessidades do negócio para o projeto Titanic - Machine Learning from Disaster envolvem a criação de um modelo preditivo capaz de determinar a probabilidade de sobrevivência dos passageiros do Titanic com base em uma variedade de características. Essa previsão é vital para compreender melhor os fatores que influenciaram as chances de sobrevivência dos passageiros e, consequentemente, auxiliar na formulação de políticas de segurança marítima mais eficazes."
-pubDate: "Mar 16 2024"
-badge: "#I2A2"
-tags: ["I2A2", "CHALLENGE-2", "TITANIC"]
-slug: "challenge-2-titanic"
-heroImage: "/titanic_4-61.jpg"
+title: "Dia #1: Aprendendo a Correr"
+description: ""
+pubDate: "Jan 07 2025"
+badge: "#instrucional"
+tags: ["TREINO DE CORRIDA", "TREINO DE FORÇA", "SONO", "DIETA"]
+slug: "dia-1-aprendendo-a-correr"
+heroImage: "/aprendendo-a-correr.jpg"
 ---
 
-<h3>CRISP-DM</h3>
+<h3>06h - Iniciando o Dia</h3>
 
 <p style="text-align: justify">
-    A metodologia Cross-Industry Standard Process for Data Mining (CRISP-DM) consiste em 6 fases, incluindo compreensão do negócio, preparação de dados e análise exploratória de dados (EDA), modelagem, avaliação, implantação, bem como manutenção e monitoramento. Para este estudo de caso, será utilizado o desafio <a href="https://www.kaggle.com/competitions/titanic" target="_blank">Titanic - Machine Learning from Disaster</a> do Kaggle.
+    Acordei hoje as 06h após uma boa noite de sono.
 </p>
+
+!['Registro SONO 070125'](https://henriquesilva.dev/registro-sono-070125.png")
 
 <h3>Objetivos do Trabalho</h3>
 
