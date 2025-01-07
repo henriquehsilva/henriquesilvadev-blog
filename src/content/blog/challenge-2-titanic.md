@@ -5,7 +5,7 @@ pubDate: "Jan 07 2025"
 badge: "#instrucional"
 tags: ["TREINO DE CORRIDA", "TREINO DE FORÇA", "SONO", "DIETA"]
 slug: "dia-1-aprendendo-a-correr"
-heroImage: "/aprendendo-a-correr.jpg"
+heroImage: ""
 ---
 
 <h3>06h - Iniciando o Dia</h3>
