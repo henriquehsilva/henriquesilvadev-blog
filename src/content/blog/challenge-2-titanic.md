@@ -16,16 +16,24 @@ heroImage: ""
 
 !['Registro SONO 070125'](https://henriquesilva.dev/registro-sono-070125.png "Registro SONO 070125")
 
-!['Registro SONO 02 070125'](https://henriquesilva.dev/registro-sono-02-070125.png "Registro SONO 02 070125")
+<p style="text-align: justify">
+    Tomei ioimbina com cafeína em jejum para otimizar a absorção. Depois, levei a Milk 🐶 ao espaço pet e, em seguida, me arrumei para o treino de corrida, conforme a planilha de hoje.
+</p>
+
+<h3>Objetivos do Treino</h3>
+
+<hr />
+
+1. Aquecer 10' Z1 - Muito fácil (08:00 a 07:30/km) 7,5 a 8km/h completar entre 1,25 e 1,35km.
+2. Repetir 6X :  Correr 5' Z2 - Pouca ofegância (07:30 a 07:04/km) 8 a 8,5km/h    completar entre 0,65 e 0,7km
+3. Caminhar 1'
+
+<hr />
+
+!['Treino Corrida 070125'](https://henriquesilva.dev/treino-corrida-070125.png "Treino Corrida 070125")
 
 
-<h3>Objetivos do Trabalho</h3>
 
-- Coletar e limpar os dados do conjunto de dados do Titanic.
-- Explorar e analisar os dados para entender as tendências e padrões.
-- Desenvolver e treinar um modelo de machine learning que possa prever a sobrevivência dos passageiros com base em atributos como idade, sexo, classe socioeconômica, etc.
-- Avaliar o desempenho do modelo e refiná-lo conforme necessário para alcançar uma precisão satisfatória.
-- Fornecer insights acionáveis para melhorar as políticas de segurança em futuras viagens marítimas.
 
 <h3>Critérios de Aceite</h3>
 
