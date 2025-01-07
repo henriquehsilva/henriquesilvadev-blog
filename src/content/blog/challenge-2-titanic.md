@@ -17,27 +17,25 @@ heroImage: ""
 !['Registro SONO 070125'](https://henriquesilva.dev/registro-sono-070125.png "Registro SONO 070125")
 
 <p style="text-align: justify">
-    Tomei ioimbina com cafeína em jejum para otimizar a absorção. Depois, levei a Milk 🐶 ao espaço pet e, em seguida, me arrumei para o treino de corrida, conforme a planilha de hoje.
+    Tomei ioimbina com cafeína em jejum para otimizar a absorção e os resultados. Depois, levei a Milk 🐶 ao espaço pet e, em seguida, me arrumei para o treino de corrida, conforme a planilha de hoje.
 </p>
 
-<h3>Objetivos do Treino</h3>
-
-<hr />
+<h3>06h:30min - Treino de Corrida</h3>
 
 1. Aquecer 10' Z1 - Muito fácil (08:00 a 07:30/km) 7,5 a 8km/h completar entre 1,25 e 1,35km.
 2. Repetir 6X :  Correr 5' Z2 - Pouca ofegância (07:30 a 07:04/km) 8 a 8,5km/h    completar entre 0,65 e 0,7km
 3. Caminhar 1'
 
-<hr />
+<h4>Resultados do Treino</h4>
 
 !['Treino Corrida 070125'](https://henriquesilva.dev/treino-corrida-070125.png "Treino Corrida 070125")
 
+<h3>07h:40min - Pesagem</h3>
 
+Ao chegar em casa, decidi fazer uma checagem de peso e fiquei muito feliz com os resultados.
 
+!['Pesagem 070125'](https://henriquesilva.dev/checagem-peso-070125.png "Pesagem 070125")
 
-<h3>Critérios de Aceite</h3>
-
-Os critérios de aceite para o projeto Titanic - Machine Learning from Disaster são:
 
 - O modelo deve ser capaz de prever com precisão a sobrevivência dos passageiros com uma taxa de acerto superior a X%.
 - A análise exploratória de dados deve fornecer insights significativos sobre os fatores que influenciaram a sobrevivência dos passageiros.
