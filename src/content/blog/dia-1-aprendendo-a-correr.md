@@ -75,3 +75,9 @@ Realizei a terceira e última refeição do dia.
 
 - Leite proteico com whey e banana (300 ml);
 - 2 wraps com linguiça picada e queijo;
+
+<h3>20h - Último gole d'água</h3>
+
+Iniciando periodo de jejum(14h) e concluindo meta de ingesta de água (4500ml).
+
+!['Água 070125'](https://henriquesilva.dev/agua-070125.png "Água 070125")
