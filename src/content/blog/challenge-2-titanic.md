@@ -30,7 +30,7 @@ heroImage: ""
 
 <hr />
 
-!['Treino Corrida 070125'](https://henriquesilva.dev/treino-corrida-070125.png "Treino Corrida 070125")
+!['Treino Corrida 070125'](https://henriquesilva.dev/treino-corrida-070125.jpeg "Treino Corrida 070125")
 
 
 
