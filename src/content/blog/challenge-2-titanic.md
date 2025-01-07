@@ -36,16 +36,30 @@ Ao chegar em casa, decidi fazer uma checagem de peso e fiquei muito feliz com os
 
 !['Pesagem 070125'](https://henriquesilva.dev/checagem-peso-070125.png "Pesagem 070125")
 
-<h3>10h - Refeição 01</h3>
+<h3>10h - Refeição 01 (380 kcal)</h3>
+
+Tomei um suplemento contendo colágeno, coenzima Q10, vitaminas e ferro para melhorar a energia celular e complementar possíveis deficiências nutricionais.
 
 Finalizei o jejum de 14h, e realizei a primeira refeição do dia.
 
 - Pão com queijo e presunto;
 - 1 Banana média;
-- Café preto sem açúcar 
+- Café preto sem açúcar;
 
 !['Refeição 01 070125'](https://henriquesilva.dev/refeicao-01-070125.png "Refeição 01 070125")
 
+
+<h3>13h - Refeição 02 (580 kcal)</h3>
+
+Aproveitei a hora do almoço para fazer a inscrição na Eleva Night Run: Corrida Noturna.
+
+Realizei a segunda refeição do dia.
+
+- Purê de batata (200g);
+- Peito de frango (200g);
+- 1 Banana média;
+
+!['Refeição 02 070125'](https://henriquesilva.dev/refeicao-02-070125.png "Refeição 02 070125")
 
 - O modelo deve ser capaz de prever com precisão a sobrevivência dos passageiros com uma taxa de acerto superior a X%.
 - A análise exploratória de dados deve fornecer insights significativos sobre os fatores que influenciaram a sobrevivência dos passageiros.
