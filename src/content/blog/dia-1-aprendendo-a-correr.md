@@ -1,12 +1,14 @@
 ---
 title: "Dia #1: Aprendendo a Correr"
-description: ""
+description: "Hoje tive um ótimo treino de corrida com minha treinadora Morgana (Morgana Assessoria Esportiva). Durante a sessão, ela destacou os principais atributos para realizar uma boa corrida: postura adequada, cadência constante, respiração controlada, técnica de passadas eficientes e a importância de manter o foco e a resistência mental. Foi motivador e cheio de aprendizado!"
 pubDate: "Jan 07 2025"
-badge: "#instrucional"
+badge: "#corrida-de-rua"
 tags: ["TREINO DE CORRIDA", "TREINO DE FORÇA", "SONO", "DIETA"]
 slug: "dia-1-aprendendo-a-correr"
 heroImage: ""
 ---
+
+Hoje tive um ótimo treino de corrida com minha treinadora [Morgana](https://www.instagram.com/morgana_personal/?hl=en) [(Morghteam)](https://www.instagram.com/morghteam/?hl=en). Durante a sessão, ela destacou os principais atributos para realizar uma boa corrida: postura adequada, cadência constante, respiração controlada, técnica de passadas eficientes e a importância de manter o foco e a resistência mental. Foi motivador e cheio de aprendizado!
 
 <h3>06h - Iniciando o Dia</h3>
 
@@ -63,6 +65,13 @@ Realizei a segunda refeição do dia.
 
 <h3>17h - Treino de Força</h3>
 
-Sai para um treino de força, realizei 24 series de [peito, ombro e tríceps].
+Sai para um treino de força, realizei 24 series de peito, ombro e tríceps com carga moderada.
 
 !['Treino de Força 070125'](https://henriquesilva.dev/treino-forca-070125.png "Treino de Força 070125")
+
+<h3>19h - Refeição 03 (750 kcal)</h3>
+
+Realizei a terceira e última refeição do dia.
+
+- Leite proteico com whey e banana (300 ml);
+- 2 wraps com linguiça picada e queijo;
