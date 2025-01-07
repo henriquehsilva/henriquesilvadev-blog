@@ -14,7 +14,10 @@ heroImage: "/aprendendo-a-correr.jpg"
     Acordei hoje as 06h após uma boa noite de sono.
 </p>
 
-!['Registro SONO 070125'](https://henriquesilva.dev/registro-sono-070125.png")
+!['Registro SONO 070125'](https://henriquesilva.dev/registro-sono-070125.png "Registro SONO 070125")
+
+!['Registro SONO 02 070125'](https://henriquesilva.dev/registro-sono-02-070125.png "Registro SONO 02 070125")
+
 
 <h3>Objetivos do Trabalho</h3>
 
