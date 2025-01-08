@@ -81,3 +81,13 @@ Realizei a terceira e última refeição do dia.
 Iniciando o período de jejum (14h) e concluindo a meta de ingestão de água. (4500ml).
 
 !['Água 070125'](https://henriquesilva.dev/agua-070125.png "Água 070125")
+
+<h3>Gasto Calórico do dia</h3>
+
+!['Gasto Calórico 070125'](https://henriquesilva.dev/gasto-calorico-070125.png "Gasto Calórico 070125")
+
+<h3>23h - Higiene do sono </h3>
+
+Gosto de concluir +1% do livro que estou lendo atualmente (Disciplina é destino: o poder do autocontrole), antes de durmir.
+
+!['Leitura 070125'](https://henriquesilva.dev/leitura-070125.png "Leitura 070125")
