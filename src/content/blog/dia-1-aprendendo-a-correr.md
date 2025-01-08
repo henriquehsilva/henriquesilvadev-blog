@@ -5,7 +5,7 @@ pubDate: "Jan 07 2025"
 badge: "#corrida-de-rua"
 tags: ["TREINO DE CORRIDA", "TREINO DE FORÇA", "SONO", "DIETA"]
 slug: "dia-1-aprendendo-a-correr"
-heroImage: "/header-070125.png"
+heroImage: "/aprendendo-a-correr.jpg"
 ---
 
 Hoje tive um ótimo treino de corrida com minha treinadora [Morgana](https://www.instagram.com/morgana_personal/?hl=en) [(Morghteam)](https://www.instagram.com/morghteam/?hl=en). Durante a sessão, ela destacou os principais atributos para realizar uma boa corrida: postura adequada, cadência constante, respiração controlada, técnica de passadas eficientes e a importância de manter o foco e a resistência mental. Foi motivador e cheio de aprendizado!
