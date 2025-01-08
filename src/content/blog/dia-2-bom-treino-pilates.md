@@ -3,12 +3,12 @@ title: "Dia #2: Bom Treino de Pilates"
 description: "Hoje tive um excelente treino de pilates, com ótimo controle corporal. O treino de força também foi muito produtivo, progredindo na carga. A mudança na dieta, com o aumento da ingestão calórica e a redução do protocolo de jejum de 18h para 14h, certamente teve um impacto positivo no meu desempenho e energia ao longo do dia."
 pubDate: "Jan 08 2025"
 badge: "#treino-pilates"
-tags: ["TREINO DE PILAteS", "TREINO DE FORÇA", "SONO", "DIETA"]
+tags: ["TREINO DE PILATES", "TREINO DE FORÇA", "SONO", "DIETA"]
 slug: "dia-2-bom-treino-pilates"
 heroImage: "/bom-treino-pilates.jpg"
 ---
 
-Hoje tive um ótimo treino de corrida com minha treinadora [Morgana](https://www.instagram.com/morgana_personal/?hl=en) [(Morghteam)](https://www.instagram.com/morghteam/?hl=en). Durante a sessão, ela destacou os principais atributos para realizar uma boa corrida: postura adequada, cadência constante, respiração controlada, técnica de passadas eficientes e a importância de manter o foco e a resistência mental. Foi motivador e cheio de aprendizado!
+Hoje tive um excelente treino de pilates, com ótimo controle corporal. O treino de força também foi muito produtivo, progredindo na carga. A mudança na dieta, com o aumento da ingestão calórica e a redução do protocolo de jejum de 18h para 14h, certamente teve um impacto positivo no meu desempenho e energia ao longo do dia.
 
 <h3>06h - Iniciando o Dia</h3>
 
