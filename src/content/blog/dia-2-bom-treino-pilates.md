@@ -70,7 +70,7 @@ Na volta passamos no mercado para comprar itens da dieta da semana.
 
 Meu café da manhã foi uma pamonha de sal e um café sem açúcar.
 
-<img src="https://henriquesilva.dev/cafe-manha-080125.png" alt="Café da Manha 080125" title="Café da Manha 080125" width="300">
+<img src="https://henriquesilva.dev/cafe-manha-080125.jpeg" alt="Café da Manha 080125" title="Café da Manha 080125" width="300">
 
 <h3>10h - Refeição 01 (380 kcal)</h3>
 
