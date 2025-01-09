@@ -1,6 +1,6 @@
 ---
 title: "Dia #2: Bom Treino de Pilates"
-description: "Hoje tive um excelente treino de pilates, com ótimo controle corporal. O treino de força também foi muito produtivo, progredindo na carga. A mudança na dieta, com o aumento da ingestão calórica e a redução do protocolo de jejum de 18h para 14h, certamente teve um impacto positivo no meu desempenho e energia ao longo do dia."
+description: "Hoje tive um excelente treino de cross pilates, com ótimo controle corporal. O treino de força também foi muito produtivo, progredindo na carga. A mudança na dieta, com o aumento da ingestão calórica e a redução do protocolo de jejum de 18h para 14h, certamente teve um impacto positivo no meu desempenho e energia ao longo do dia."
 pubDate: "Jan 08 2025"
 badge: "#treino-pilates"
 tags: ["TREINO DE PILATES", "TREINO DE FORÇA", "SONO", "DIETA"]
@@ -8,7 +8,7 @@ slug: "dia-2-bom-treino-pilates"
 heroImage: "/bom-treino-pilates.jpg"
 ---
 
-Hoje tive um excelente treino de pilates, com ótimo controle corporal. O treino de força também foi muito produtivo, progredindo na carga. A mudança na dieta, com o aumento da ingestão calórica e a redução do protocolo de jejum de 18h para 14h, certamente teve um impacto positivo no meu desempenho e energia ao longo do dia.
+Hoje tive um excelente treino de cross pilates, com ótimo controle corporal. O treino de força também foi muito produtivo, progredindo na carga. A mudança na dieta, com o aumento da ingestão calórica e a redução do protocolo de jejum de 18h para 14h, certamente teve um impacto positivo no meu desempenho e energia ao longo do dia.
 
 <h3>08h - Iniciando o Dia</h3>
 
@@ -16,11 +16,16 @@ Hoje tive um excelente treino de pilates, com ótimo controle corporal. O treino
     Acordei hoje as 08h, como não tinha treino de corrida cedo, aumentei as horas de sono, melhorando na qualidade.
 </p>
 
-!['Registro SONO 080125'](https://henriquesilva.dev/sono-080125.png "Registro SONO 080125")
+!['Registro SONO 080125'](https://henriquesilva.dev/sono-080125.png "Registro SONO 08   0125")
 
 <p style="text-align: justify">
-    Tomei ioimbina com cafeína em jejum para otimizar a absorção e os resultados. Depois, levei a Milk 🐶 ao espaço pet e, em seguida, me arrumei para o treino de corrida, conforme a planilha de hoje.
+    Tomei ioimbina (10mg) com cafeína (400mg) em jejum para otimizar a absorção e os resultados. Depois, levei a Milk 🐶 ao espaço pet e, em seguida, me arrumei para o treino de cross pilates.
 </p>
+
+<video controls width="640" height="360">
+  <source src="/milk-passeio.mp4" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
 
 <h3>06h:30min - Treino de Corrida</h3>
 
