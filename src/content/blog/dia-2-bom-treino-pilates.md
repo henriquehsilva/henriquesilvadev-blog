@@ -22,20 +22,49 @@ Hoje tive um excelente treino de cross pilates, com ótimo controle corporal. O 
     Tomei ioimbina (10mg) com cafeína (400mg) em jejum para otimizar a absorção e os resultados. Depois, levei a Milk 🐶 ao espaço pet e, em seguida, me arrumei para o treino de cross pilates.
 </p>
 
-<video controls width="640" height="360">
+<video controls style="width: 100%; height: 300px;">
   <source src="/milk-passeio.mp4" type="video/mp4">
   Seu navegador não suporta a tag de vídeo.
 </video>
 
-<h3>06h:30min - Treino de Corrida</h3>
+<h3>09h - Treino de Pilates</h3>
 
-1. Aquecer 10' Z1 - Muito fácil (08:00 a 07:30/km) 7,5 a 8km/h completar entre 1,25 e 1,35km.
-2. Repetir 6X :  Correr 5' Z2 - Pouca ofegância (07:30 a 07:04/km) 8 a 8,5km/h    completar entre 0,65 e 0,7km
-3. Caminhar 1'
+Realizei o treino que combinou elementos de força, equilíbrio e flexibilidade, típicos dessa modalidade:
+
+1. Prancha dinâmica com elevação de perna
+
+- Comece na posição de prancha (mãos alinhadas aos ombros e corpo reto).
+- Eleve uma perna enquanto mantém o abdômen contraído e o equilíbrio.
+- Alterne as pernas, fortalecendo o core e os glúteos.
+
+2. Agachamento com elevação de braços
+
+- Com ou sem halteres, realize um agachamento mantendo a postura correta.
+- Enquanto sobe, eleve os braços até a altura dos ombros ou acima da cabeça, ativando os músculos das pernas e ombros.
+
+3. Ponte de glúteos com movimento de pernas
+
+- Deite-se de costas com os pés apoiados no chão e os joelhos dobrados.
+- Eleve o quadril em direção ao teto, formando uma ponte, e estenda uma perna de cada vez enquanto mantém o quadril estável.
+
+4. Rotação de tronco com faixa elástica
+
+- Prenda uma faixa elástica em um ponto fixo na altura do peito.
+- Segure a faixa com ambas as mãos e, com os pés firmes, gire o tronco para um lado e depois para o outro.
+- Trabalha a mobilidade do tronco e fortalece os oblíquos.
+
+Esses exercícios combinam o foco no controle corporal do Pilates com a intensidade e a funcionalidade do treinamento Cross.
 
 <h3>Resultados do Treino</h3>
 
-!['Treino Corrida 070125'](https://henriquesilva.dev/treino-corrida-070125.png "Treino Corrida 070125")
+!['Treino Pilates 080125'](https://henriquesilva.dev/resultado-treino-pilates-080125.png "Treino Pilates 080125")
+
+<h3>Dieta</h3>
+
+Na volta passamos no mercado para comprar itens da dieta da semana.
+
+!['Compra Dieta 080125'](https://henriquesilva.dev/compra-dieta-080125.png "Compra Dieta 080125")
+
 
 <h3>07h:40min - Pesagem</h3>
 
