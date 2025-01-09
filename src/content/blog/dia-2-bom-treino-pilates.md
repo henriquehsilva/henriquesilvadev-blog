@@ -66,11 +66,11 @@ Na volta passamos no mercado para comprar itens da dieta da semana.
 !['Compra Dieta 080125'](https://henriquesilva.dev/compra-dieta-080125.png "Compra Dieta 080125")
 
 
-<h3>07h:40min - Pesagem</h3>
+<h3>10h - Café da manhã (330 kcal)</h3>
 
-Ao chegar em casa, decidi fazer uma checagem de peso e fiquei muito feliz com os resultados.
+Meu café da manhã foi uma pamonha de sal e um café sem açúcar.
 
-!['Pesagem 070125'](https://henriquesilva.dev/checagem-peso-070125.png "Pesagem 070125")
+<img src="https://henriquesilva.dev/cafe-manha-080125.png" alt="Café da Manha 080125" title="Café da Manha 080125" width="300">
 
 <h3>10h - Refeição 01 (380 kcal)</h3>
 
