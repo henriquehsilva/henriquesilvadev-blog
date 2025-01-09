@@ -10,13 +10,13 @@ heroImage: "/bom-treino-pilates.jpg"
 
 Hoje tive um excelente treino de pilates, com ótimo controle corporal. O treino de força também foi muito produtivo, progredindo na carga. A mudança na dieta, com o aumento da ingestão calórica e a redução do protocolo de jejum de 18h para 14h, certamente teve um impacto positivo no meu desempenho e energia ao longo do dia.
 
-<h3>06h - Iniciando o Dia</h3>
+<h3>08h - Iniciando o Dia</h3>
 
 <p style="text-align: justify">
-    Acordei hoje as 06h após uma boa noite de sono.
+    Acordei hoje as 08h, como não tinha treino de corrida cedo, aumentei as horas de sono, melhorando na qualidade.
 </p>
 
-!['Registro SONO 070125'](https://henriquesilva.dev/registro-sono-070125.png "Registro SONO 070125")
+!['Registro SONO 080125'](https://henriquesilva.dev/sono-080125.png "Registro SONO 080125")
 
 <p style="text-align: justify">
     Tomei ioimbina com cafeína em jejum para otimizar a absorção e os resultados. Depois, levei a Milk 🐶 ao espaço pet e, em seguida, me arrumei para o treino de corrida, conforme a planilha de hoje.
