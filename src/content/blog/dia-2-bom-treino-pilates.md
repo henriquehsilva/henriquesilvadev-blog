@@ -68,22 +68,13 @@ Na volta passamos no mercado para comprar itens da dieta da semana.
 
 <h3>10h - Café da manhã (330 kcal)</h3>
 
-Meu café da manhã foi uma pamonha de sal e um café sem açúcar.
-
-<img src="https://henriquesilva.dev/cafe-manha-080125.jpeg" alt="Café da Manha 080125" title="Café da Manha 080125" width="300">
-
-<h3>10h - Refeição 01 (380 kcal)</h3>
-
 Tomei um suplemento contendo colágeno, coenzima Q10, vitaminas e ferro para melhorar a energia celular e complementar possíveis deficiências nutricionais.
-
 Finalizei o jejum de 14h, e realizei a primeira refeição do dia.
 
-- Pão com queijo e presunto;
-- 1 Banana média;
-- Café preto sem açúcar;
+- Pamonha de sal;
+- Café sem açúcar;
 
-!['Refeição 01 070125'](https://henriquesilva.dev/refeicao-01-070125.png "Refeição 01 070125")
-
+<img src="https://henriquesilva.dev/cafe-manha-080125.jpeg" alt="Café da Manha 080125" title="Café da Manha 080125" width="300">
 
 <h3>13h - Refeição 02 (580 kcal)</h3>
 
