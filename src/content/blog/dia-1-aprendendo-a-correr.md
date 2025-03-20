@@ -1,11 +1,11 @@
 ---
-title: "Dia #1: Aprendendo a Correr"
-description: "Hoje tive um ótimo treino de corrida com minha treinadora Morgana (Morgana Assessoria Esportiva). Durante a sessão, ela destacou os principais atributos para realizar uma boa corrida: postura adequada, cadência constante, respiração controlada, técnica de passadas eficientes e a importância de manter o foco e a resistência mental. Foi motivador e cheio de aprendizado!"
-pubDate: "Jan 07 2025"
-badge: "#corrida-de-rua"
-tags: ["TREINO DE CORRIDA", "TREINO DE FORÇA", "SONO", "DIETA"]
+title: "Aula 1 - Sócrates e Platão"
+description: "Apesar de Sócrates ser muito homenageado e reconhecido pelos filósofos que vieram depois dele, dificilmente ele se reconheceria nas diversas linhas filosóficas que surgiram."
+pubDate: "Mar 19 2025"
+badge: "#pensadores"
+tags: ["SÓCRATES", "PLATÃO", "FILOSOFIA"]
 slug: "dia-1-aprendendo-a-correr"
-heroImage: "/aprendendo-a-correr.jpg"
+heroImage: "/aula-1-socrates-platao.png"
 ---
 
 Hoje tive um ótimo treino de corrida com minha treinadora [Morgana](https://www.instagram.com/morgana_personal/?hl=en) [(Morghteam)](https://www.instagram.com/morghteam/?hl=en). Durante a sessão, ela destacou os principais atributos para realizar uma boa corrida: postura adequada, cadência constante, respiração controlada, técnica de passadas eficientes e a importância de manter o foco e a resistência mental. Foi motivador e cheio de aprendizado!
