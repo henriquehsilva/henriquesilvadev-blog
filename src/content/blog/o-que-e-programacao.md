@@ -3,7 +3,7 @@ title: "O Que é Programação?"
 description: "A programação é essencial em nosso cotidiano, desde os aplicativos que usamos no celular até os sistemas que operam em empresas, governos e até em satélites. Através da programação, podemos criar soluções para problemas, automatizar processos e inovar em diversas áreas."
 pubDate: "Mar 20 2025"
 badge: ""
-tags: ["CURSO", "PROGRAMAÇÃO", "RUBY"]
+tags: ["INTRODUÇÃO"]
 slug: "o-que-e-programacao"
 heroImage: "https://www.youtube.com/embed/0-CsYaE6l08"
 ---
@@ -42,7 +42,7 @@ Se você ainda está começando, não se preocupe! A programação pode ser apre
 - [📌 Guia Oficial de Instalação do Ruby (em português)](https://www.ruby-lang.org/pt/documentation/installation/) – Instruções detalhadas para instalar o Ruby em diferentes sistemas operacionais.  
 - [📂 RVM (Ruby Version Manager)](https://rvm.io/) – Ferramenta para gerenciar versões do Ruby.  
 - [📂 rbenv](https://github.com/rbenv/rbenv) – Alternativa ao RVM para gerenciar múltiplas versões do Ruby.  
-- [📂 Como Instalar o Ruby no Windows com RubyInstaller](https://rubyinstaller.org/) – Ferramenta para instalar Ruby no Windows.    
+- [📂 Como Instalar o Ruby no Windows com RubyInstaller](https://rubyinstaller.org/) – Ferramenta para instalar Ruby no Windows.
 
 💡 **Dica:** Após instalar o Ruby, você pode verificar a versão instalada rodando este comando no terminal:  
 ```sh
