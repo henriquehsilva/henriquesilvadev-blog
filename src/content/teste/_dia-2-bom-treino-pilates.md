@@ -4,7 +4,7 @@ description: "Hoje tive um excelente treino de cross pilates, com ótimo control
 pubDate: "Jan 08 2025"
 badge: "#treino-pilates"
 tags: ["TREINO DE PILATES", "TREINO DE FORÇA", "SONO", "DIETA"]
-slug: "dia-2-bom-treino-pilates"
+slug: "__dia-2-bom-treino-pilates"
 heroImage: "/bom-treino-pilates.jpg"
 ---
 
