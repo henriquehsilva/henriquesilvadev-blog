@@ -29,7 +29,12 @@ import { Image } from "@astrojs/image/components";
     <article class="prose prose-lg max-w-[750px] prose-img:mx-auto">
       {
         heroImage && (
-          <Image aspectRatio="16:9" width={750} height={422} format="webp" src={heroImage} alt={title} class="w-full mb-6" />
+        <iframe            
+            width={750}
+            height={422}            
+            src={heroImage}            
+            class="w-full mb-6"
+          ></iframe>
         )
       }
       <div class="">
