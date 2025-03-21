@@ -12,7 +12,7 @@ heroImage: "https://www.youtube.com/embed/0-CsYaE6l08"
 
 | **Tópico**                    | **Descrição**                                                     |
 |-------------------------------|-------------------------------------------------------------------|
-| [**O Que é Programação?**](o-que-e-programacao)             | 📑 Introdução sobre o que é programação. |
+| [**O Que é Programação?**](../o-que-e-programacao)             | 📑 Introdução sobre o que é programação. |
 
 ## 1. Fundamentos de Ruby
 
