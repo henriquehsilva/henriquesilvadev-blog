@@ -25,7 +25,7 @@ A programação começa com a identificação de um problema ou tarefa que o com
 
 Programar é uma habilidade fundamental no mundo digital atual. **Aprender programação** pode ser uma das experiências mais empoderadoras, permitindo criar desde pequenos scripts até sistemas complexos.
 
-> “A melhor maneira de aprender a programar é começar a programar.”
+> A melhor maneira de aprender a programar é começar a programar.
 
 Se você ainda está começando, não se preocupe! A programação pode ser aprendida passo a passo, e logo você perceberá o poder de construir suas próprias soluções. 🚀
 
