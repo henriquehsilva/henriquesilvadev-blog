@@ -19,7 +19,8 @@ const { image, title = SITE_TITLE, description = SITE_DESCRIPTION, includeSideba
       <input id="my-drawer" type="checkbox" class="drawer-toggle" />
       <div class="drawer-content bg-base-100" style="background-color: #EDECEA;">
         <Header title={SITE_TITLE} />
-        <img src="https://henriquesilva.dev/bg-bot.jpeg" alt="background" style="width: 100%; height: 100vh; object-fit: cover;" />
+        <!-- <img src="https://henriquesilva.dev/bg-bot.jpeg" alt="background" style="width: 100%; height: 100vh; object-fit: cover;" /> -->
+        <wow-image id="img_comp-ksj7zkb7" class="HlRz5e Kv1aVt dLPlxY mNGsUM bgImage" style="opacity: 0.8" data-image-info="{&quot;containerId&quot;:&quot;comp-ksj7zkb7&quot;,&quot;alignType&quot;:&quot;center&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:980,&quot;targetHeight&quot;:3141,&quot;isLQIP&quot;:true,&quot;encoding&quot;:&quot;AVIF&quot;,&quot;imageData&quot;:{&quot;width&quot;:1920,&quot;height&quot;:1080,&quot;uri&quot;:&quot;28cc53_ae4cd4b2ff9b48d99a2f9d258863a0aa~mv2.gif&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;fill&quot;}}" data-motion-part="BG_IMG comp-ksj7zkb7" data-bg-effect-name="" data-has-ssr-src="true"><img src="https://static.wixstatic.com/media/28cc53_ae4cd4b2ff9b48d99a2f9d258863a0aa~mv2.gif" alt="" style="width: 980px; height: 3141px; object-fit: cover; object-position: 50% 50%;" width="980" height="3141" data-ssr-src-done="true" fetchpriority="low" loading="lazy" decoding="async"></wow-image>
         <div class="md:flex md:justify-center">
           <main class="p-6 pt-10 lg:max-w-[900px] max-w-[100vw]">
             <slot />
@@ -32,3 +33,20 @@ const { image, title = SITE_TITLE, description = SITE_DESCRIPTION, includeSideba
     </div>
   </body>
 </html>
+
+<style>
+  wow-image {
+    position: relative;
+}
+
+wow-image::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2); /* Ajuste o último valor para mais ou menos opacidade */
+}
+
+</style>
