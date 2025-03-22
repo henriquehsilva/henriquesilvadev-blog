@@ -1,6 +1,6 @@
 ---
 title: "Sobre o Curso de Programação?"
-description: "A programação é essencial em nosso cotidiano, desde os aplicativos que usamos no celular até os sistemas que operam em empresas, governos e até em satélites. Através da programação, podemos criar soluções para problemas, automatizar processos e inovar em diversas áreas."
+description: "O curso de Programação em Ruby foi projetado para ensinar os alunos a programar de forma eficiente e intuitiva utilizando a linguagem Ruby, conhecida por sua simplicidade e elegância. Durante as aulas, os alunos aprenderão os conceitos fundamentais da programação e como aplicá-los para desenvolver soluções poderosas e escaláveis."
 pubDate: "Mar 21 2025"
 badge: ""
 tags: ["INTRODUÇÃO"]
