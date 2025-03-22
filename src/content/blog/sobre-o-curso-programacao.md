@@ -18,7 +18,7 @@ heroImage: "https://www.youtube.com/embed/ZV-Wd2jmepQ"
 
 | **Tópico**                    | **Descrição**                                                     |
 |-------------------------------|-------------------------------------------------------------------|
-| **Sintaxe Básica**             | 📑 Variáveis, [tipos de dados](../o-que-e-programacao), operadores, controle de fluxo (condições e loops) |
+| **Sintaxe Básica**             | 📑 Variáveis, [tipos de dados](../tipos-dados-basicos-ruby), operadores, controle de fluxo (condições e loops) |
 | **Estruturas de Dados**        | 📑 Arrays, hashes, sets                                             |
 | **Funções e Métodos**          | 📑 Definição e invocação, parâmetros, valores de retorno            |
 | **Orientação a Objetos**       | 📑 Classes, objetos, herança, polimorfismo, encapsulamento          |
