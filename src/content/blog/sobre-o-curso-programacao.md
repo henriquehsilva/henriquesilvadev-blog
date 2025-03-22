@@ -1,6 +1,6 @@
 ---
 title: "Sobre o Curso de Programação?"
-description: "O curso de Programação em Ruby foi projetado para ensinar os alunos a programar de forma eficiente e intuitiva utilizando a linguagem Ruby, conhecida por sua simplicidade e elegância. Durante as aulas, os alunos aprenderão os conceitos fundamentais da programação e como aplicá-los para desenvolver soluções poderosas e escaláveis."
+description: "O curso de Programação em Ruby foi projetado para ensinar a programar de forma eficiente e intuitiva utilizando a linguagem Ruby, conhecida por sua simplicidade e elegância. Durante as aulas, aprenderão os conceitos fundamentais da programação e como aplicá-los para desenvolver soluções poderosas e escaláveis."
 pubDate: "Mar 21 2025"
 badge: ""
 tags: ["INTRODUÇÃO"]
