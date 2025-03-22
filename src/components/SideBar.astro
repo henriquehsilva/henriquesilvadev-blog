@@ -2,6 +2,7 @@
 import SideBarFooter from "./SideBarFooter.astro";
 import { Image } from "@astrojs/image/components";
 import SideBarMenu from "./SideBarMenu.astro";
+import Footer from "../components/Footer.astro";
 const { sideBarActiveItemID } = Astro.props;
 ---
 
@@ -89,5 +90,6 @@ const { sideBarActiveItemID } = Astro.props;
       <!-- <SideBarMenu sideBarActiveItemID={sideBarActiveItemID} /> -->
     </div>
     <SideBarFooter />
+    <Footer />
   </aside>
 </div>
