@@ -15,10 +15,10 @@ const { image, title = SITE_TITLE, description = SITE_DESCRIPTION, includeSideba
     <BaseHead title={title} description={description} image={image} />
   </head>
   <body>
-    <div class="bg-base-300 drawer lg:drawer-open">
-      <input id="my-drawer" type="checkbox" class="drawer-toggle" />
+    <div class="bg-base-300"><!-- drawer lg:drawer-open -->
+      <!-- <input id="my-drawer" type="checkbox" class="drawer-toggle" /> -->
       <div class="drawer-content bg-base-100" style="background-color: #EDECEA;">
-        <Header title={SITE_TITLE} />
+        <!-- <Header title={SITE_TITLE} /> -->
         <!-- <img src="https://henriquesilva.dev/bg-bot.jpeg" alt="background" style="width: 100%; height: 100vh; object-fit: cover;" /> -->
         <img src="https://static.wixstatic.com/media/28cc53_ae4cd4b2ff9b48d99a2f9d258863a0aa~mv2.gif" alt="" style="opacity: 0.6;width: 100%; height: 100vh; object-fit: cover;" data-ssr-src-done="true" fetchpriority="low" loading="lazy" decoding="async">
         <div class="md:flex md:justify-center">
