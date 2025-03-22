@@ -12,13 +12,13 @@ heroImage: "https://www.youtube.com/embed/ZV-Wd2jmepQ"
 
 | **Tópico**                    | **Descrição**                                                     |
 |-------------------------------|-------------------------------------------------------------------|
-| [**O Que é Programação?**](../o-que-e-programacao)             | 📑 Introdução sobre o que é programação. |
+| **O Que é Programação?**             | 📑 [Introdução sobre o que é programação.](../o-que-e-programacao) |
 
 ## 1. Fundamentos de Ruby
 
 | **Tópico**                    | **Descrição**                                                     |
 |-------------------------------|-------------------------------------------------------------------|
-| **Sintaxe Básica**             | 📑 Variáveis, tipos de dados, operadores, controle de fluxo (condições e loops) |
+| **Sintaxe Básica**             | 📑 Variáveis, [tipos de dados](../o-que-e-programacao), operadores, controle de fluxo (condições e loops) |
 | **Estruturas de Dados**        | 📑 Arrays, hashes, sets                                             |
 | **Funções e Métodos**          | 📑 Definição e invocação, parâmetros, valores de retorno            |
 | **Orientação a Objetos**       | 📑 Classes, objetos, herança, polimorfismo, encapsulamento          |
