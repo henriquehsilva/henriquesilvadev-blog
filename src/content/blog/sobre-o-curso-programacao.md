@@ -5,7 +5,7 @@ pubDate: "Mar 21 2025"
 badge: ""
 tags: ["INTRODUÇÃO"]
 slug: "sobre-o-curso-de-programacao"
-heroImage: "https://www.youtube.com/embed/ZV-Wd2jmepQ"
+heroImage: "https://www.youtube.com/embed/ts0AzT2deug"
 ---
 
 ## 0. Introdução
