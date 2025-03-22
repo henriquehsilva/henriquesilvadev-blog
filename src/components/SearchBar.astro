@@ -6,4 +6,4 @@ const allPosts = await Astro.glob('../content/blog/*.{md,mdx}');
 const posts = allPosts.filter(post => (!post.frontmatter.draft && post.frontmatter.slug));
 
 ---
-<Search client:load searchList={allPosts}></Search>
+<!-- <Search client:load searchList={allPosts}></Search> -->
