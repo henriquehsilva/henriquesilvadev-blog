@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cartão de Visita Henrique Silva</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #eaeaea;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 30px;
+    }
+
+    .card {
+      width: 90mm;
+      height: 50mm;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+      margin-bottom: 40px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .front {
+      background-color: #121212;
+      color: #fff;
+      text-align: center;
+      padding: 30px 20px;
+    }
+
+    .front h1 {
+      font-size: 22px;
+      margin-bottom: 10px;
+      letter-spacing: 1px;
+    }
+
+    .front p {
+      font-size: 16px;
+      color: #ccc;
+    }
+
+    .back {
+      background-color: #fff;
+      color: #333;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      height: 100%;
+      text-align: center;
+    }
+
+    .back img {
+      width: 100px;
+      margin-bottom: 15px;
+    }
+
+    .contact {
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .contact strong {
+      color: #000;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Frente do Cartão -->
+  <div class="card front">
+    <h1>Henrique Silva</h1>
+    <p>https://henriquesilva.dev</p>
+  </div>
+
+  <!-- Verso do Cartão -->
+  <div class="card back">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://henriquesilva.dev" alt="QR Code">
+    <div class="contact">
+      <p><strong>WhatsApp:</strong> +55 62 98584 9729</p>
+      <p><strong>E-mail:</strong> contato@henriquesilva.dev</p>
+    </div>
+  </div>
+
+</body>
+
+</html>
