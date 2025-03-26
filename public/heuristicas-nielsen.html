@@ -5,79 +5,86 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>As 10 Heurísticas de Nielsen</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Roboto', sans-serif;
       background-color: #f4f4f4;
       color: #333;
-      line-height: 1.6;
+      line-height: 1.7;
       padding: 20px;
-      max-width: 900px;
+      max-width: 1100px;
       margin: auto;
     }
 
     h1 {
       text-align: center;
       color: #222;
+      margin-bottom: 30px;
     }
 
     .image-container {
       text-align: center;
-      margin-bottom: 30px;
+      margin-bottom: 20px;
     }
 
-    .heuristic {
+    .summary {
       background: #fff;
       padding: 20px;
-      margin-bottom: 20px;
       border-radius: 8px;
+      margin-bottom: 40px;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     }
 
-    .heuristic h2 {
-      color: #222;
-      margin-bottom: 10px;
-    }
-
-    .example {
-      color: #555;
-      font-style: italic;
-      margin-top: 10px;
+    .summary p {
+      font-weight: 400;
+      color: #444;
     }
 
     .heuristic-container {
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       background: #fff;
       padding: 20px;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
       border-radius: 8px;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      gap: 20px;
+    }
+
+    .heuristic-container .img-container {
+      flex: 1;
+      max-width: 250px;
     }
 
     .heuristic-container img {
-      width: 40%;
-      max-width: 200px;
-      margin-right: 20px;
+      width: 100%;
       border-radius: 8px;
     }
 
     .heuristic-text {
-      flex: 1;
+      flex: 3;
     }
 
     .heuristic-text h2 {
       color: #222;
-      margin-bottom: 10px;
+      font-size: 22px;
+      margin-bottom: 15px;
+    }
+
+    .heuristic-text p {
+      color: #333;
+      margin-bottom: 12px;
     }
 
     .heuristic-text .example {
-      color: #555;
+      color: #2e7d32;
       font-style: italic;
-      margin-top: 10px;
+      background-color: #e8f5e9;
+      padding: 10px;
+      border-radius: 6px;
+      font-weight: 500;
     }
-    
   </style>
 </head>
 
@@ -89,94 +96,120 @@
     <img src="/A_set_of_nine_flat-design_digital_illustrations,_e.png" alt="Heurísticas de Nielsen" style="max-width:100%;">
   </div>
 
-  <div class="heuristic-container">
-    <img src="/nielsen_1.png" alt="Heurísticas de Nielsen 1" style="max-width:100%;">
-    <div class="heuristic-text">    
-      <h2>Visibilidade do status do sistema</h2>
-      <p>O sistema mantém o usuário sempre informado sobre o que está acontecendo.</p>
-      <p class="example">Exemplo: Barra de progresso ao fazer upload.</p>
-    </div>  
+  <div class="summary">
+    <p>As <strong>10 Heurísticas de Nielsen</strong> são princípios fundamentais para a criação de interfaces mais intuitivas, usáveis e eficientes. Elas ajudam a guiar designers e desenvolvedores na construção de produtos digitais centrados no usuário, garantindo uma melhor experiência e reduzindo erros de uso.</p>
   </div>
-  
+
+  <!-- Exemplo de um card -->
+  <div class="heuristic-container">
+    <div class="img-container">
+      <img src="/nielsen_1.png" alt="Visibilidade do status do sistema">
+    </div>
+    <div class="heuristic-text">
+      <h2>1️⃣ Visibilidade do status do sistema</h2>
+      <p>O sistema deve manter o usuário sempre informado sobre o que está acontecendo, oferecendo feedback em tempo real a cada interação.</p>
+      <p class="example">Exemplo: Exibir uma barra de progresso durante o upload de arquivos.</p>
+    </div>
+  </div>
+
+  <!-- Repete esse padrão para as demais heurísticas -->
 
   <div class="heuristic-container">
-    <img src="/nielsen_2.png" alt="Heurísticas de Nielsen 2" style="max-width:100%;">
+    <div class="img-container">
+      <img src="/nielsen_2.png" alt="Correspondência com o mundo real">
+    </div>
     <div class="heuristic-text">
-      <h2>Correspondência com o mundo real</h2>
-      <p>Use linguagem e conceitos familiares ao usuário.</p>
-      <p class="example">Exemplo: Ícone de envelope para e-mails.</p>
+      <h2>2️⃣ Correspondência com o mundo real</h2>
+      <p>O sistema deve falar a linguagem do usuário, usando termos, conceitos e metáforas do mundo real para facilitar a compreensão.</p>
+      <p class="example">Exemplo: Usar o ícone de envelope para representar e-mails.</p>
     </div>
   </div>
 
   <div class="heuristic-container">
-    <img src="/nielsen_3.png" alt="Heurísticas de Nielsen 3" style="max-width:100%;">
+    <div class="img-container">
+      <img src="/nielsen_3.png" alt="Controle e liberdade do usuário">
+    </div>
     <div class="heuristic-text">
-      <h2>Controle e liberdade do usuário</h2>
-      <p>Permita desfazer ou refazer ações facilmente.</p>
-      <p class="example">Exemplo: Botão "Desfazer" no e-mail.</p>
+      <h2>3️⃣ Controle e liberdade do usuário</h2>
+      <p>Permita que o usuário tenha controle sobre suas ações, incluindo desfazer e refazer facilmente.</p>
+      <p class="example">Exemplo: Um botão "Desfazer" ao excluir um e-mail.</p>
     </div>
   </div>
 
   <div class="heuristic-container">
-    <img src="/nielsen_4.png" alt="Heurísticas de Nielsen 4" style="max-width:100%;">
+    <div class="img-container">
+      <img src="/nielsen_4.png" alt="Consistência e padrões">
+    </div>
     <div class="heuristic-text">
-      <h2>Consistência e padrões</h2>
-      <p>Mantenha elementos com significado igual em todos os lugares.</p>
-      <p class="example">Exemplo: Botão "Salvar" sempre no mesmo lugar.</p>
+      <h2>4️⃣ Consistência e padrões</h2>
+      <p>Mantenha padrões de design e comportamento para que os usuários não precisem reaprender a cada tela.</p>
+      <p class="example">Exemplo: Botão "Salvar" sempre na mesma posição nas telas do sistema.</p>
     </div>
   </div>
 
   <div class="heuristic-container">
-    <img src="/nielsen_5.png" alt="Heurísticas de Nielsen 5" style="max-width:100%;">
+    <div class="img-container">
+      <img src="/nielsen_5.png" alt="Prevenção de erros">
+    </div>
     <div class="heuristic-text">
-      <h2>Prevenção de erros</h2>
-      <p>Evite que o erro aconteça, sempre que possível.</p>
-      <p class="example">Exemplo: Bloquear o envio se o campo de e-mail estiver vazio.</p>
+      <h2>5️⃣ Prevenção de erros</h2>
+      <p>O sistema deve antecipar e prevenir os erros antes que eles aconteçam, sempre que possível.</p>
+      <p class="example">Exemplo: Desabilitar o botão "Enviar" até o usuário preencher o campo de e-mail.</p>
     </div>
   </div>
 
   <div class="heuristic-container">
-    <img src="/nielsen_6.png" alt="Heurísticas de Nielsen 6" style="max-width:100%;">
+    <div class="img-container">
+      <img src="/nielsen_6.png" alt="Reconhecimento em vez de memorização">
+    </div>
     <div class="heuristic-text">
-      <h2>Reconhecimento em vez de memorização</h2>
-      <p>Ajude o usuário a reconhecer opções sem precisar lembrar.</p>
-      <p class="example">Exemplo: Autocompletar na busca.</p>
+      <h2>6️⃣ Reconhecimento em vez de memorização</h2>
+      <p>Minimize o esforço de memorização mostrando informações visíveis sempre que possível.</p>
+      <p class="example">Exemplo: Exibir sugestões enquanto o usuário digita no campo de busca.</p>
     </div>
   </div>
 
   <div class="heuristic-container">
-    <img src="/nielsen_7.png" alt="Heurísticas de Nielsen 7" style="max-width:100%;">
+    <div class="img-container">
+      <img src="/nielsen_7.png" alt="Flexibilidade e eficiência de uso">
+    </div>
     <div class="heuristic-text">
-      <h2>Flexibilidade e eficiência de uso</h2>
-      <p>O sistema deve funcionar bem para iniciantes e avançados.</p>
-      <p class="example">Exemplo: Atalhos de teclado para usuários experientes.</p>
+      <h2>7️⃣ Flexibilidade e eficiência de uso</h2>
+      <p>O sistema deve ser eficiente tanto para iniciantes quanto para usuários experientes.</p>
+      <p class="example">Exemplo: Disponibilizar atalhos de teclado para agilizar tarefas.</p>
     </div>
   </div>
 
   <div class="heuristic-container">
-    <img src="/nielsen_8.png" alt="Heurísticas de Nielsen 8" style="max-width:100%;">
+    <div class="img-container">
+      <img src="/nielsen_8.png" alt="Estética e design minimalista">
+    </div>
     <div class="heuristic-text">
-      <h2>Estética e design minimalista</h2>
-      <p>Remova o que for desnecessário, focando só no essencial.</p>
-      <p class="example">Exemplo: Tela de login simples com apenas usuário e senha.</p>
+      <h2>8️⃣ Estética e design minimalista</h2>
+      <p>Mantenha o design limpo, mostrando apenas o essencial para não sobrecarregar o usuário.</p>
+      <p class="example">Exemplo: Tela de login com campos apenas para usuário e senha.</p>
     </div>
   </div>
 
   <div class="heuristic-container">
-    <img src="/nielsen_9.png" alt="Heurísticas de Nielsen 9" style="max-width:100%;">
+    <div class="img-container">
+      <img src="/nielsen_9.png" alt="Ajuda o usuário a reconhecer e corrigir erros">
+    </div>
     <div class="heuristic-text">
-      <h2>Ajudar o usuário a reconhecer e corrigir erros</h2>
-      <p>Mostre mensagens de erro claras e que ajudem na solução.</p>
+      <h2>9️⃣ Ajudar o usuário a reconhecer e corrigir erros</h2>
+      <p>As mensagens de erro devem ser claras e indicar como resolver o problema.</p>
       <p class="example">Exemplo: "Senha incorreta. Verifique se o Caps Lock está ativado."</p>
     </div>
   </div>
 
   <div class="heuristic-container">
-    <img src="/nielsen_10.png" alt="Heurísticas de Nielsen 10" style="max-width:100%;">
+    <div class="img-container">
+      <img src="/nielsen_10.png" alt="Ajuda e documentação">
+    </div>
     <div class="heuristic-text">
-      <h2>Ajuda e documentação</h2>
-      <p>Tenha ajuda acessível sempre que o usuário precisar.</p>
-      <p class="example">Exemplo: Um botão de "Ajuda" com instruções rápidas.</p>
+      <h2>🔟 Ajuda e documentação</h2>
+      <p>Mesmo sistemas bem projetados podem precisar de ajuda e documentação acessível.</p>
+      <p class="example">Exemplo: Um botão de "Ajuda" com instruções rápidas de uso.</p>
     </div>
   </div>
 
